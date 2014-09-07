@@ -1,0 +1,4222 @@
+$VAR1 = [
+          {
+            'date' => '2012-12-05T13:22:43.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::SCHWIGON',
+            'distribution' => 'Dist-Zilla-PluginBundle-SCHWIGON'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Rsync',
+            'distribution' => 'Dist-Zilla-Plugin-Rsync',
+            'date' => '2010-05-16T07:55:39.000Z'
+          },
+          {
+            'date' => '2010-06-28T11:56:36.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-SubmittingPatches',
+            'module.name' => 'Dist::Zilla::Plugin::SubmittingPatches'
+          },
+          {
+            'date' => '2010-08-19T08:25:34.000Z',
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL',
+            'module.name' => 'Dist::Zilla::Plugin::CSJEWELL::BeforeBuild'
+          },
+          {
+            'date' => '2010-08-19T08:25:34.000Z',
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL',
+            'module.name' => 'Dist::Zilla::PluginBundle::CSJEWELL'
+          },
+          {
+            'date' => '2010-08-19T08:25:34.000Z',
+            'module.name' => 'Dist::Zilla::BeLike::CSJEWELL',
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL'
+          },
+          {
+            'date' => '2010-08-19T08:25:34.000Z',
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL',
+            'module.name' => 'Dist::Zilla::MintingProfile::CSJEWELL'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::SVK::DirtyFiles',
+            'distribution' => 'Dist-Zilla-Plugin-SVK',
+            'date' => '2010-07-02T00:30:15.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::EnsureStash',
+            'distribution' => 'Dist-Zilla-Role-EnsureStash',
+            'date' => '2012-12-30T15:32:18.000Z'
+          },
+          {
+            'date' => '2012-09-28T16:52:21.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::OLIVER',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-OLIVER'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-FileKeywords',
+            'module.name' => 'Dist::Zilla::Plugin::FileKeywords::Standard',
+            'date' => '2013-02-13T17:40:18.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Stash::Contributors',
+            'distribution' => 'Dist-Zilla-Stash-Contributors',
+            'date' => '2013-03-22T07:32:53.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::Version',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Version',
+            'date' => '2012-04-05T17:06:38.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Git-Remote-Check',
+            'module.name' => 'Dist::Zilla::Role::Git::Remote::Check',
+            'date' => '2012-03-26T19:48:41.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::Git::Remote::Branch',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Remote-Check',
+            'date' => '2012-03-26T19:48:41.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ModuleBuild::OptionalXS',
+            'distribution' => 'Dist-Zilla-Plugin-ModuleBuild-OptionalXS',
+            'date' => '2011-11-10T03:42:11.000Z'
+          },
+          {
+            'date' => '2011-11-08T20:01:55.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::VersionFromScript',
+            'distribution' => 'Dist-Zilla-Plugin-VersionFromScript'
+          },
+          {
+            'date' => '2011-04-10T20:23:16.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::MakeMaker::SkipInstall',
+            'distribution' => 'Dist-Zilla-Plugin-MakeMaker-SkipInstall'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::GitFmtChanges',
+            'distribution' => 'Dist-Zilla-Plugin-GitFmtChanges',
+            'date' => '2011-10-12T09:49:10.000Z'
+          },
+          {
+            'date' => '2011-04-01T10:46:57.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::SpellingCommonMistakesTests',
+            'distribution' => 'Dist-Zilla-Plugin-SpellingCommonMistakesTests'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ModuleBuild::RequireXS',
+            'distribution' => 'Dist-Zilla-Plugin-ModuleBuild-RequireXS',
+            'date' => '2011-08-20T17:04:28.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Test-Perl-Critic',
+            'module.name' => 'Dist::Zilla::Plugin::Test::Perl::Critic',
+            'date' => '2011-08-29T12:01:51.000Z'
+          },
+          {
+            'date' => '2011-11-08T23:06:18.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::shell',
+            'distribution' => 'Dist-Zilla-Shell'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::DualBuilders',
+            'distribution' => 'Dist-Zilla-Plugin-DualBuilders',
+            'date' => '2010-12-15T18:55:03.000Z'
+          },
+          {
+            'date' => '2014-02-14T01:41:41.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Pod::Spiffy',
+            'distribution' => 'Dist-Zilla-Plugin-Pod-Spiffy'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-TravisCI',
+            'module.name' => 'Dist::Zilla::Plugin::TravisCI',
+            'date' => '2014-02-16T01:31:11.000Z'
+          },
+          {
+            'date' => '2014-02-18T08:09:22.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-RPM-Push',
+            'module.name' => 'Dist::Zilla::Plugin::RPM::Push'
+          },
+          {
+            'date' => '2013-12-14T02:43:49.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::jQuery',
+            'distribution' => 'Dist-Zilla-Plugin-jQuery'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Twitter',
+            'module.name' => 'Dist::Zilla::Plugin::Twitter',
+            'date' => '2014-01-17T00:41:43.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-PerlTidy',
+            'module.name' => 'Dist::Zilla::Plugin::PerlTidy',
+            'date' => '2014-03-20T04:09:12.000Z'
+          },
+          {
+            'date' => '2014-03-17T15:24:01.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::MinimumPerlFast',
+            'distribution' => 'Dist-Zilla-Plugin-MinimumPerlFast'
+          },
+          {
+            'date' => '2013-06-27T18:28:02.000Z',
+            'module.name' => 'Dist::Zilla::MintingProfile::Project::OSM',
+            'distribution' => 'Dist-Zilla-MintingProfile-Project-OSM'
+          },
+          {
+            'date' => '2013-06-27T18:26:35.000Z',
+            'module.name' => 'Dist::Zilla::MintingProfile::PLTK',
+            'distribution' => 'Dist-Zilla-MintingProfile-PLTK'
+          },
+          {
+            'date' => '2013-07-20T01:48:52.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::LXP',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-LXP'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::PerlVersionPrereqs',
+            'distribution' => 'Dist-Zilla-Plugin-PerlVersionPrereqs',
+            'date' => '2013-07-10T02:40:22.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Test-DistManifest',
+            'module.name' => 'Dist::Zilla::Plugin::DistManifestTests',
+            'date' => '2013-08-03T13:25:03.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Mercurial',
+            'module.name' => 'Dist::Zilla::Plugin::Mercurial::Push',
+            'date' => '2014-01-27T10:40:39.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-test2t',
+            'module.name' => 'Dist::Zilla::Plugin::test2t',
+            'date' => '2013-11-12T18:32:44.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::PodLoom',
+            'distribution' => 'Dist-Zilla-Plugin-PodLoom',
+            'date' => '2013-11-14T01:17:36.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Author::SHARYANTO::MetaResources',
+            'distribution' => 'Dist-Zilla-Plugin-Author-SHARYANTO-MetaResources',
+            'date' => '2013-11-05T09:51:01.000Z'
+          },
+          {
+            'date' => '2013-11-07T04:25:51.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-FFFINKEL',
+            'module.name' => 'Dist::Zilla::PluginBundle::FFFINKEL'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::xPANResolver',
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-DarkPAN',
+            'date' => '2013-11-22T09:52:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-LocaleTextDomain',
+            'module.name' => 'Dist::Zilla::App::Command::msg_compile',
+            'date' => '2013-11-24T04:46:39.000Z'
+          },
+          {
+            'date' => '2013-11-24T04:46:39.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::LocaleTextDomain',
+            'distribution' => 'Dist-Zilla-LocaleTextDomain'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::PotFile',
+            'distribution' => 'Dist-Zilla-LocaleTextDomain',
+            'date' => '2013-11-24T04:46:39.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Util::Git::Branches::Branch',
+            'distribution' => 'Dist-Zilla-Util-Git-Branches',
+            'date' => '2013-12-10T07:42:58.000Z'
+          },
+          {
+            'date' => '2013-12-10T07:42:58.000Z',
+            'module.name' => 'Dist::Zilla::Util::Git::Branches',
+            'distribution' => 'Dist-Zilla-Util-Git-Branches'
+          },
+          {
+            'date' => '2014-04-01T15:22:01.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::SHARYANTO::OurPkgVersion',
+            'distribution' => 'Dist-Zilla-Plugin-SHARYANTO-OurPkgVersion'
+          },
+          {
+            'date' => '2014-04-07T17:05:17.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-ACPS',
+            'module.name' => 'Dist::Zilla::PluginBundle::ACPS'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ACPS::RPM',
+            'distribution' => 'Dist-Zilla-PluginBundle-ACPS',
+            'date' => '2014-04-07T17:05:17.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::CheckStrictVersion',
+            'distribution' => 'Dist-Zilla-Plugin-CheckStrictVersion',
+            'date' => '2014-04-02T20:45:48.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-ChangesFromYaml',
+            'module.name' => 'Dist::Zilla::Plugin::ChangesFromYaml',
+            'date' => '2014-04-03T17:05:56.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-ChangesFromYaml',
+            'module.name' => 'Dist::Zilla::Plugin::ChangesFromYaml::Convert',
+            'date' => '2014-04-03T17:05:56.000Z'
+          },
+          {
+            'date' => '2014-04-16T13:39:59.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-OurDate',
+            'module.name' => 'Dist::Zilla::Plugin::OurDate'
+          },
+          {
+            'date' => '2014-04-11T02:17:40.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::EOL',
+            'distribution' => 'Dist-Zilla-Plugin-Test-EOL'
+          },
+          {
+            'date' => '2014-04-11T19:59:01.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Git-CheckFor',
+            'module.name' => 'Dist::Zilla::Plugin::Git::CheckFor::CorrectBranch'
+          },
+          {
+            'date' => '2014-04-26T21:28:54.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::TemplateCJM',
+            'distribution' => 'Dist-Zilla-Plugin-TemplateCJM'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Authority',
+            'module.name' => 'Dist::Zilla::Plugin::Authority',
+            'date' => '2012-01-03T04:16:01.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::PkgVersion',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN',
+            'date' => '2011-07-15T15:09:18.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-JSAN',
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::Minter',
+            'date' => '2011-07-15T15:09:18.000Z'
+          },
+          {
+            'date' => '2011-07-15T15:09:18.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::NPM::Publish',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN'
+          },
+          {
+            'module.name' => 'Dist::Zilla::MintingProfile::JSAN',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN',
+            'date' => '2011-07-15T15:09:18.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-WSDL',
+            'module.name' => 'Dist::Zilla::Plugin::WSDL',
+            'date' => '2011-06-14T15:43:28.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Version-Git-Flowish',
+            'module.name' => 'Dist::Zilla::Plugin::Version::Git::Flowish',
+            'date' => '2012-02-12T00:05:43.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Moz',
+            'module.name' => 'Dist::Zilla::Plugin::Moz',
+            'date' => '2012-02-15T03:10:05.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Moz',
+            'module.name' => 'Dist::Zilla::Plugin::Moz::Install',
+            'date' => '2012-02-15T03:10:05.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Moz',
+            'module.name' => 'Dist::Zilla::Plugin::Moz::Manifest',
+            'date' => '2012-02-15T03:10:05.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::MintingProfile::Moz',
+            'distribution' => 'Dist-Zilla-Plugin-Moz',
+            'date' => '2012-02-15T03:10:05.000Z'
+          },
+          {
+            'date' => '2012-04-27T03:35:36.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-PodWeaverIfPod',
+            'module.name' => 'Dist::Zilla::Plugin::PodWeaverIfPod'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Web',
+            'module.name' => 'Dist::Zilla::File::Generated',
+            'date' => '2012-04-04T18:58:40.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Web::PkgVersion',
+            'distribution' => 'Dist-Zilla-Plugin-Web',
+            'date' => '2012-04-04T18:58:40.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Web::Bundle',
+            'distribution' => 'Dist-Zilla-Plugin-Web',
+            'date' => '2012-04-04T18:58:40.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Web',
+            'module.name' => 'Dist::Zilla::Plugin::Web::NPM::Publish',
+            'date' => '2012-04-04T18:58:40.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Web::NPM::Package',
+            'distribution' => 'Dist-Zilla-Plugin-Web',
+            'date' => '2012-04-04T18:58:40.000Z'
+          },
+          {
+            'date' => '2012-05-11T22:07:46.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::InlineFilesMARCEL',
+            'distribution' => 'Dist-Zilla-PluginBundle-MARCEL'
+          },
+          {
+            'date' => '2012-08-16T00:53:44.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-RUSSOZ',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::RUSSOZ'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-ANELSON',
+            'module.name' => 'Dist::Zilla::PluginBundle::ANELSON',
+            'date' => '2012-06-25T04:21:25.000Z'
+          },
+          {
+            'date' => '2013-01-30T23:02:36.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-HARTZELL',
+            'module.name' => 'Dist::Zilla::PluginBundle::HARTZELL'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Pod2Html',
+            'module.name' => 'Dist::Zilla::Plugin::Pod2Html',
+            'date' => '2013-06-03T05:52:58.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Upload-SCP',
+            'module.name' => 'Dist::Zilla::Plugin::Upload::SCP',
+            'date' => '2013-06-06T15:46:22.000Z'
+          },
+          {
+            'date' => '2013-05-21T14:11:54.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Git::PushInitial',
+            'distribution' => 'Dist-Zilla-Plugin-Git-PushInitial'
+          },
+          {
+            'date' => '2013-08-21T23:43:41.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-SurgicalPodWeaver',
+            'module.name' => 'Dist::Zilla::Plugin::SurgicalPodWeaver'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::ROKR::Basic',
+            'distribution' => 'Dist-Zilla-PluginBundle-ROKR',
+            'date' => '2011-08-23T18:56:15.000Z'
+          },
+          {
+            'date' => '2011-08-23T18:56:15.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-ROKR',
+            'module.name' => 'Dist::Zilla::Plugin::CopyMakefilePLFromBuild'
+          },
+          {
+            'date' => '2013-08-27T22:52:11.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::ReversionOnRelease',
+            'distribution' => 'Dist-Zilla-Plugin-ReversionOnRelease'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Deb',
+            'module.name' => 'Dist::Zilla::App::Command::debuild',
+            'date' => '2013-09-07T14:01:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ReportVersions::Tiny',
+            'distribution' => 'Dist-Zilla-Plugin-ReportVersions-Tiny',
+            'date' => '2013-10-03T08:48:59.000Z'
+          },
+          {
+            'date' => '2013-10-06T03:18:08.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::dhmakeperl',
+            'distribution' => 'Dist-Zilla-App-Command-dhmakeperl'
+          },
+          {
+            'date' => '2013-10-20T03:14:27.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::NewVersion',
+            'distribution' => 'Dist-Zilla-Plugin-Test-NewVersion'
+          },
+          {
+            'date' => '2013-10-28T06:30:14.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::INGY',
+            'distribution' => 'Dist-Zilla-PluginBundle-INGY'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Util',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => [
+                               'Dist::Zilla::Tester',
+                               'Dist::Zilla::Tester::_Builder',
+                               'Dist::Zilla::Tester::_Minter'
+                             ],
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::App::Command',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::clean',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::App::Command::test',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::PluginBundle::Filter',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Chrome::Term',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::PkgDist'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Readme',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::FinderCode',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::PruneCruft'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::MetaConfig'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::PruneFiles'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ModuleBuild',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ExtraTests',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::MVP::Assembler',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::ShareDir',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::MutableFile',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::PrereqSource',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::Chrome',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::Thanks',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease',
+            'date' => '2014-07-31T13:31:09.000Z'
+          },
+          {
+            'date' => '2014-07-31T13:31:09.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease',
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::MarkDownCleanup'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::EnsurePrereqsInstalled',
+            'distribution' => 'Dist-Zilla-Plugin-EnsurePrereqsInstalled',
+            'date' => '2014-07-22T15:25:17.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::PromptIfStale',
+            'distribution' => 'Dist-Zilla-Plugin-PromptIfStale',
+            'date' => '2014-07-23T20:16:13.000Z'
+          },
+          {
+            'date' => '2014-07-23T20:16:13.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::EnsureNotStale',
+            'distribution' => 'Dist-Zilla-Plugin-PromptIfStale'
+          },
+          {
+            'date' => '2014-07-23T20:16:13.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-PromptIfStale',
+            'module.name' => 'Dist::Zilla::App::Command::stale'
+          },
+          {
+            'distribution' => 'Dist-Zilla-TravisCI',
+            'module.name' => 'Dist::Zilla::Plugin::Travis::TestRelease',
+            'date' => '2014-08-03T00:05:08.000Z'
+          },
+          {
+            'date' => '2014-08-03T00:05:08.000Z',
+            'distribution' => 'Dist-Zilla-TravisCI',
+            'module.name' => 'Dist::Zilla::Role::TravisYML'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::TravisYML',
+            'distribution' => 'Dist-Zilla-TravisCI',
+            'date' => '2014-08-03T00:05:08.000Z'
+          },
+          {
+            'date' => '2014-08-03T07:11:18.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::Synopsis',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Synopsis'
+          },
+          {
+            'date' => '2014-04-28T14:31:23.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-CheckPrereqsIndexed',
+            'module.name' => 'Dist::Zilla::Plugin::CheckPrereqsIndexed'
+          },
+          {
+            'date' => '2014-04-30T01:23:12.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Test-UnusedVars',
+            'module.name' => 'Dist::Zilla::Plugin::Test::UnusedVars'
+          },
+          {
+            'distribution' => 'Dist-Zilla-MintingProfile-RTx',
+            'module.name' => 'Dist::Zilla::MintingProfile::RTx',
+            'date' => '2014-07-01T19:38:28.000Z'
+          },
+          {
+            'date' => '2014-07-11T18:20:39.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-TravisCI-StatusBadge',
+            'module.name' => 'Dist::Zilla::Plugin::TravisCI::StatusBadge'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-GETTY',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::GETTY',
+            'date' => '2014-07-07T05:45:08.000Z'
+          },
+          {
+            'date' => '2014-05-01T12:16:32.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MetaProvides-Class',
+            'module.name' => 'Dist::Zilla::Plugin::MetaProvides::Class'
+          },
+          {
+            'date' => '2014-05-08T15:35:31.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Milla',
+            'distribution' => 'Dist-Milla'
+          },
+          {
+            'date' => '2014-05-03T06:41:12.000Z',
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::YAKEX',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-YAKEX'
+          },
+          {
+            'date' => '2014-05-02T02:17:21.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::PrereqsClean',
+            'distribution' => 'Dist-Zilla-PluginBundle-Prereqs'
+          },
+          {
+            'date' => '2014-05-12T23:09:16.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-LESPEA',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::LESPEA'
+          },
+          {
+            'date' => '2014-08-16T06:38:12.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Git::Contributors',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Contributors'
+          },
+          {
+            'date' => '2014-08-16T15:05:14.000Z',
+            'distribution' => 'Dist-Zilla-Plugins-CJM',
+            'module.name' => 'Dist::Zilla::Plugin::VersionFromModule'
+          },
+          {
+            'date' => '2014-08-16T15:05:14.000Z',
+            'distribution' => 'Dist-Zilla-Plugins-CJM',
+            'module.name' => 'Dist::Zilla::Plugin::RecommendedPrereqs'
+          },
+          {
+            'date' => '2014-08-16T15:05:14.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::ModuleBuild::Custom',
+            'distribution' => 'Dist-Zilla-Plugins-CJM'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugins-CJM',
+            'module.name' => 'Dist::Zilla::Role::HashDumper',
+            'date' => '2014-08-16T15:05:14.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::TestMLIncluder',
+            'distribution' => 'Dist-Zilla-Plugin-TestMLIncluder',
+            'date' => '2014-08-16T21:59:12.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Breaks',
+            'module.name' => 'Dist::Zilla::Plugin::Breaks',
+            'date' => '2014-08-16T23:37:00.000Z'
+          },
+          {
+            'date' => '2014-08-13T16:20:57.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::ReportPrereqs',
+            'distribution' => 'Dist-Zilla-Plugin-Test-ReportPrereqs'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::Version::Sanitize',
+            'distribution' => 'Dist-Zilla-Role-Version-Sanitize',
+            'date' => '2014-08-16T00:36:35.000Z'
+          },
+          {
+            'date' => '2014-08-16T00:36:31.000Z',
+            'module.name' => 'Dist::Zilla::Tempdir::Dir',
+            'distribution' => 'Dist-Zilla-Role-Tempdir'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Role-Tempdir',
+            'module.name' => 'Dist::Zilla::Role::Tempdir',
+            'date' => '2014-08-16T00:36:31.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Author::PERLANCAR::MetaResources',
+            'distribution' => 'Dist-Zilla-Plugin-Author-PERLANCAR-MetaResources',
+            'date' => '2014-08-26T11:28:31.000Z'
+          },
+          {
+            'date' => '2014-08-27T15:04:57.000Z',
+            'module.name' => 'Dist::Zilla::UtilRole::MaybeGit',
+            'distribution' => 'Dist-Zilla-Util-Git-Wrapper'
+          },
+          {
+            'date' => '2014-08-29T09:52:48.000Z',
+            'distribution' => 'Dist-Zilla-Util-EmulatePhase',
+            'module.name' => 'Dist::Zilla::Util::EmulatePhase'
+          },
+          {
+            'date' => '2014-08-29T15:51:05.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-AutoVersion-Relative',
+            'module.name' => 'Dist::Zilla::Plugin::AutoVersion::Relative'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::CleanNamespaces',
+            'distribution' => 'Dist-Zilla-Plugin-Test-CleanNamespaces',
+            'date' => '2014-08-30T01:34:54.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Bootstrap-lib',
+            'module.name' => 'Dist::Zilla::Plugin::Bootstrap::lib',
+            'date' => '2014-08-31T19:38:33.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-NextVersion-Semantic',
+            'module.name' => [
+                               'Dist::Zilla::Plugin::NextVersion::Semantic::Incrementer',
+                               'Dist::Zilla::Plugin::NextVersion::Semantic'
+                             ],
+            'date' => '2014-08-31T22:07:52.000Z'
+          },
+          {
+            'date' => '2014-08-31T22:11:56.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-YANICK',
+            'module.name' => 'Dist::Zilla::Plugin::Author::YANICK::NextSemanticVersion'
+          },
+          {
+            'date' => '2014-09-01T01:14:03.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Git::NextVersion::Sanitized',
+            'distribution' => 'Dist-Zilla-Plugin-Git-NextVersion-Sanitized'
+          },
+          {
+            'date' => '2014-09-01T06:30:06.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::InlineIncluder',
+            'distribution' => 'Dist-Zilla-Plugin-InlineIncluder'
+          },
+          {
+            'date' => '2014-09-03T22:14:58.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::MetaData::BuiltWith::All',
+            'distribution' => 'Dist-Zilla-Plugin-MetaData-BuiltWith'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::MetaProvides::FromFile',
+            'distribution' => 'Dist-Zilla-Plugin-MetaProvides-FromFile',
+            'date' => '2014-09-04T18:29:41.000Z'
+          },
+          {
+            'date' => '2014-09-04T23:15:59.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ReadmeAnyFromPod',
+            'module.name' => 'Dist::Zilla::Plugin::ReadmeAnyFromPod'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Prereqs::Plugins',
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-Plugins',
+            'date' => '2014-09-04T21:27:27.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::DynamicPrereqs',
+            'distribution' => 'Dist-Zilla-Plugin-DynamicPrereqs',
+            'date' => '2014-09-06T08:46:35.000Z'
+          },
+          {
+            'date' => '2014-09-06T06:55:46.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Run::Role::Runner',
+            'distribution' => 'Dist-Zilla-Plugin-Run'
+          },
+          {
+            'date' => '2010-05-22T15:01:17.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Homepage',
+            'distribution' => 'Dist-Zilla-Plugin-Homepage'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-GatherFromManifest',
+            'module.name' => 'Dist::Zilla::Plugin::GatherFromManifest',
+            'date' => '2010-09-25T12:02:37.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-SanityTests',
+            'module.name' => 'Dist::Zilla::Plugin::SanityTests',
+            'date' => '2010-05-29T15:17:58.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::interact',
+            'distribution' => 'Module-Build-Service',
+            'date' => '2012-11-28T20:39:27.000Z'
+          },
+          {
+            'date' => '2012-12-09T10:25:14.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::CEBJYRE',
+            'distribution' => 'Dist-Zilla-PluginBundle-CEBJYRE'
+          },
+          {
+            'date' => '2010-07-02T00:30:15.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-SVK',
+            'module.name' => 'Dist::Zilla::Plugin::SVK::Commit'
+          },
+          {
+            'date' => '2010-07-02T00:30:15.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::SVK::Push',
+            'distribution' => 'Dist-Zilla-Plugin-SVK'
+          },
+          {
+            'date' => '2010-05-18T19:01:57.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ConsistentVersionTest',
+            'module.name' => 'Dist::Zilla::Plugin::ConsistentVersionTest'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Subversion',
+            'distribution' => 'Dist-Zilla-Plugin-Subversion',
+            'date' => '2010-06-08T15:38:44.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::Rinci',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Rinci',
+            'date' => '2012-11-06T15:43:24.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Rakudo',
+            'distribution' => 'Dist-Zilla-PluginBundle-Rakudo',
+            'date' => '2010-08-19T05:50:27.000Z'
+          },
+          {
+            'date' => '2014-04-25T22:00:22.000Z',
+            'module.name' => 'Dist::Zilla::Role::ContributorSource',
+            'distribution' => 'Dist-Zilla-Role-ContributorSource'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::FatPacker',
+            'distribution' => 'Dist-Zilla-Plugin-FatPacker',
+            'date' => '2014-04-30T01:15:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Subversion-NextVersion',
+            'module.name' => 'Dist::Zilla::Plugin::Subversion::NextVersion',
+            'date' => '2013-12-23T12:42:48.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::DBR',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-DBR',
+            'date' => '2014-01-07T16:34:43.000Z'
+          },
+          {
+            'date' => '2013-12-16T17:31:44.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::OurPkgVersion',
+            'distribution' => 'Dist-Zilla-Plugin-OurPkgVersion'
+          },
+          {
+            'date' => '2013-12-20T14:01:22.000Z',
+            'distribution' => 'Dist-Zilla-Util-Git-Tags',
+            'module.name' => 'Dist::Zilla::Util::Git::Tags::Tag'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::JavaScript::Minifier',
+            'distribution' => 'Dist-Zilla-Plugin-JavaScript-Minifier',
+            'date' => '2013-12-14T02:26:21.000Z'
+          },
+          {
+            'date' => '2014-01-13T16:52:49.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-TemplateXS',
+            'module.name' => 'Dist::Zilla::Plugin::TemplateXS'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-RunByBranch',
+            'module.name' => 'Dist::Zilla::Plugin::RunByBranch::AfterRelease',
+            'date' => '2014-01-17T03:01:09.000Z'
+          },
+          {
+            'date' => '2014-01-17T03:01:09.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-RunByBranch',
+            'module.name' => 'Dist::Zilla::Plugin::RunByBranch::BeforeRelease'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::RunByBranch::Role::Branch',
+            'distribution' => 'Dist-Zilla-Plugin-RunByBranch',
+            'date' => '2014-01-17T03:01:09.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::XENO',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-XENO',
+            'date' => '2014-03-06T03:48:38.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Pinto-Add',
+            'module.name' => 'Dist::Zilla::Plugin::Pinto::Add',
+            'date' => '2014-03-19T04:03:54.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-SILEX',
+            'module.name' => 'Dist::Zilla::PluginBundle::SILEX',
+            'date' => '2014-02-26T18:48:17.000Z'
+          },
+          {
+            'date' => '2014-03-03T12:20:33.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-IOANR',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::IOANR'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::LocalBrew',
+            'distribution' => 'Dist-Zilla-Plugin-Test-LocalBrew',
+            'date' => '2014-03-09T05:10:41.000Z'
+          },
+          {
+            'date' => '2014-03-28T14:44:39.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-BumpVersionAfterRelease',
+            'module.name' => 'Dist::Zilla::Plugin::RewriteVersion'
+          },
+          {
+            'date' => '2014-05-02T02:17:21.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Prereqs',
+            'distribution' => 'Dist-Zilla-PluginBundle-Prereqs'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-MatchInstalled-All',
+            'module.name' => 'Dist::Zilla::Plugin::Prereqs::MatchInstalled::All',
+            'date' => '2014-05-02T09:31:47.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-YAKEX',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::YAKEX',
+            'date' => '2014-05-03T06:41:12.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::CheckManifest',
+            'distribution' => 'Dist-Zilla-Plugin-Test-CheckManifest',
+            'date' => '2012-08-20T09:13:51.000Z'
+          },
+          {
+            'date' => '2012-08-22T02:08:31.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::TidyAll',
+            'distribution' => 'Dist-Zilla-Plugin-TidyAll'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::RAYM',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-RAYM',
+            'date' => '2012-06-06T11:20:19.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::weaverconf',
+            'distribution' => 'Dist-Zilla-App-Command-weaverconf',
+            'date' => '2013-01-22T00:24:00.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Prophet',
+            'distribution' => 'Prophet-Devel',
+            'date' => '2013-05-20T02:53:06.000Z'
+          },
+          {
+            'date' => '2013-06-16T06:08:06.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-LaunchpadPPA',
+            'module.name' => 'Dist::Zilla::Plugin::LaunchpadPPA'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::mbd_build',
+            'distribution' => 'Dist-Zilla-Plugin-ModuleBuildDatabase',
+            'date' => '2013-07-06T17:11:59.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Git::Describe',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Describe',
+            'date' => '2013-07-02T02:33:14.000Z'
+          },
+          {
+            'date' => '2013-07-25T23:07:10.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-TaskWeaver',
+            'module.name' => 'Dist::Zilla::Plugin::TaskWeaver'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-CoalescePod',
+            'module.name' => 'Dist::Zilla::Plugin::CoalescePod',
+            'date' => '2013-07-19T00:23:15.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Test-CheckChanges',
+            'module.name' => 'Dist::Zilla::Plugin::Test::CheckChanges',
+            'date' => '2013-08-03T13:22:11.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Bioperl',
+            'distribution' => 'Dist-Zilla-PluginBundle-Bioperl',
+            'date' => '2011-10-13T20:57:52.000Z'
+          },
+          {
+            'date' => '2011-07-15T00:52:20.000Z',
+            'distribution' => 'Dist-Zilla-Role-DynamicConfig',
+            'module.name' => 'Dist::Zilla::Role::DynamicConfig'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Catalyst',
+            'distribution' => 'Dist-Zilla-Plugin-Catalyst',
+            'date' => '2011-02-17T12:47:36.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Catalyst::New',
+            'distribution' => 'Dist-Zilla-Plugin-Catalyst',
+            'date' => '2011-02-17T12:47:36.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::LocaleMsgfmt',
+            'distribution' => 'Dist-Zilla-Plugin-LocaleMsgfmt',
+            'date' => '2011-05-20T13:01:18.000Z'
+          },
+          {
+            'date' => '2011-10-09T19:28:29.000Z',
+            'module.name' => 'Dist::Zilla::Role::Meta::Dynamic::Config',
+            'distribution' => 'Dist-Zilla-Plugin-Meta-Dynamic-Config'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::CriticTests',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Perl-Critic',
+            'date' => '2011-08-29T12:01:51.000Z'
+          },
+          {
+            'date' => '2011-04-19T19:14:56.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-PurePerlTests',
+            'module.name' => 'Dist::Zilla::Plugin::PurePerlTests'
+          },
+          {
+            'date' => '2011-07-21T15:43:20.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::BumpVersionFromGit',
+            'distribution' => 'Dist-Zilla-Plugin-BumpVersionFromGit'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Bugtracker',
+            'module.name' => 'Dist::Zilla::Plugin::Bugtracker',
+            'date' => '2011-04-18T09:53:56.000Z'
+          },
+          {
+            'date' => '2011-05-16T16:34:35.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-WOLVERIAN',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::WOLVERIAN'
+          },
+          {
+            'date' => '2010-12-28T20:57:17.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MetaResourcesFromGit',
+            'module.name' => 'Dist::Zilla::Plugin::MetaResourcesFromGit'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Mercurial',
+            'distribution' => 'Dist-Zilla-Plugin-Mercurial',
+            'date' => '2014-01-27T10:40:39.000Z'
+          },
+          {
+            'date' => '2014-01-27T10:40:39.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Mercurial',
+            'distribution' => 'Dist-Zilla-Plugin-Mercurial'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-MungeFile-WithDataSection',
+            'module.name' => 'Dist::Zilla::Plugin::MungeFile::WithDataSection',
+            'date' => '2014-01-27T01:32:17.000Z'
+          },
+          {
+            'date' => '2014-02-09T13:08:48.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-JAITKEN',
+            'module.name' => 'Dist::Zilla::PluginBundle::JAITKEN'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-ACPS',
+            'module.name' => 'Dist::Zilla::PluginBundle::ACPS::MakeMaker',
+            'date' => '2014-04-07T17:05:17.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ACPS::Git::CommitBuild',
+            'distribution' => 'Dist-Zilla-PluginBundle-ACPS',
+            'date' => '2014-04-07T17:05:17.000Z'
+          },
+          {
+            'date' => '2014-04-07T17:05:17.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-ACPS',
+            'module.name' => 'Dist::Zilla::Plugin::ACPS::Git::Commit'
+          },
+          {
+            'date' => '2014-04-11T19:59:01.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Git-CheckFor',
+            'module.name' => 'Dist::Zilla::Role::Git::Repo::More'
+          },
+          {
+            'distribution' => 'Dist-Zilla-MintingProfile-SYP',
+            'module.name' => 'Dist::Zilla::MintingProfile::SYP',
+            'date' => '2014-06-23T10:08:30.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Git::Commit',
+            'distribution' => 'Dist-Zilla-Plugin-Git',
+            'date' => '2014-06-14T16:36:56.000Z'
+          },
+          {
+            'date' => '2014-06-14T16:36:56.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Git',
+            'module.name' => 'Dist::Zilla::Plugin::Git::Tag'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-UploadToStratopan',
+            'module.name' => 'Dist::Zilla::Plugin::UploadToStratopan',
+            'date' => '2014-06-15T21:01:50.000Z'
+          },
+          {
+            'date' => '2014-06-28T10:39:06.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::GitHub::Update',
+            'distribution' => 'Dist-Zilla-Plugin-GitHub'
+          },
+          {
+            'date' => '2014-06-28T10:39:06.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-GitHub',
+            'module.name' => 'Dist::Zilla::Plugin::GitHub::Create'
+          },
+          {
+            'date' => '2014-07-04T21:03:08.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-DOY',
+            'module.name' => 'Dist::Zilla::PluginBundle::DOY'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::RegisterStash',
+            'distribution' => 'Dist-Zilla-Role-RegisterStash',
+            'date' => '2014-05-14T08:58:22.000Z'
+          },
+          {
+            'date' => '2014-05-12T23:09:16.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-LESPEA',
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::LESPEA'
+          },
+          {
+            'date' => '2014-07-15T21:44:44.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::OSPrereqs',
+            'distribution' => 'Dist-Zilla-Plugin-OSPrereqs'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::MatchManifest',
+            'distribution' => 'Dist-Zilla-Plugin-MatchManifest',
+            'date' => '2014-07-20T06:49:11.000Z'
+          },
+          {
+            'date' => '2014-07-05T22:26:52.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-RSRCHBOY',
+            'module.name' => 'Dist::Zilla::PluginBundle::RSRCHBOY'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::CheckExtraTests',
+            'distribution' => 'Dist-Zilla-Plugin-CheckExtraTests',
+            'date' => '2014-07-14T21:37:40.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Tutorial',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::build',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::run',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::File::OnDisk',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Chrome::Test'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::ManifestSkip',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::License',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::PodVersion'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::UploadToCPAN',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::AutoVersion',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::MetaResources',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::AutoPrereqs',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::FileFinder::ByName',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::MVP::Section',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::MVP::Reader::Perl'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::BeforeMint',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::MintingProfile',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::EncodingProvider',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::AfterMint',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::BuildPL',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::Plugin',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::BuildRunner',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::ModuleMaker',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::Stash::Authors',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T18:18:20.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-DAGOLDEN',
+            'module.name' => 'Dist::Zilla::PluginBundle::DAGOLDEN'
+          },
+          {
+            'date' => '2014-07-31T13:31:09.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::TransformTravis',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease',
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::PrePodWeaver',
+            'date' => '2014-07-31T13:31:09.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::FiveEight',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease',
+            'date' => '2014-07-31T13:31:09.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::Init2',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease',
+            'date' => '2014-07-31T13:31:09.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::Resources',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease',
+            'date' => '2014-07-31T13:31:09.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::BBYRD',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-BBYRD',
+            'date' => '2014-08-02T04:48:21.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-BBYRD',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::BBYRD',
+            'date' => '2014-08-02T04:48:21.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-TravisCI',
+            'module.name' => 'Dist::Zilla::Util::Git::Bundle',
+            'date' => '2014-08-03T00:05:08.000Z'
+          },
+          {
+            'date' => '2013-02-27T16:40:43.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Meta-Contributors',
+            'module.name' => 'Dist::Zilla::Plugin::Meta::Contributors'
+          },
+          {
+            'date' => '2013-03-22T18:59:54.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-LOGIE',
+            'module.name' => 'Dist::Zilla::PluginBundle::LOGIE'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::debrelease',
+            'distribution' => 'Dist-Zilla-Deb',
+            'date' => '2013-09-07T14:01:26.000Z'
+          },
+          {
+            'date' => '2013-09-07T14:01:26.000Z',
+            'distribution' => 'Dist-Zilla-Deb',
+            'module.name' => 'Dist::Zilla::Plugin::Deb::VersionFromChangelog'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::ROKR',
+            'distribution' => 'Dist-Zilla-PluginBundle-ROKR',
+            'date' => '2011-08-23T18:56:15.000Z'
+          },
+          {
+            'date' => '2013-09-25T22:39:22.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::HelpWanted',
+            'distribution' => 'Dist-Zilla-Plugin-HelpWanted'
+          },
+          {
+            'date' => '2012-04-04T18:58:40.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Web::RelaxedVersion',
+            'distribution' => 'Dist-Zilla-Plugin-Web'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Web',
+            'module.name' => 'Dist::Zilla::Plugin::Web::StripBOM',
+            'date' => '2012-04-04T18:58:40.000Z'
+          },
+          {
+            'date' => '2012-03-24T22:09:56.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::AutoModuleShareDirs',
+            'distribution' => 'Dist-Zilla-Plugin-AutoModuleShareDirs'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Moz::Minter',
+            'distribution' => 'Dist-Zilla-Plugin-Moz',
+            'date' => '2012-02-15T03:10:05.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ModuleBuild::XSOrPP',
+            'distribution' => 'Dist-Zilla-Plugin-ModuleBuild-XSOrPP',
+            'date' => '2012-02-08T20:01:31.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::InstallRelease',
+            'distribution' => 'Dist-Zilla-Plugin-InstallRelease',
+            'date' => '2012-03-03T22:58:21.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Test-Pod-LinkCheck',
+            'module.name' => 'Dist::Zilla::Plugin::Test::Pod::LinkCheck',
+            'date' => '2011-07-14T23:50:24.000Z'
+          },
+          {
+            'date' => '2011-07-15T15:09:18.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN',
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::Shotenjin'
+          },
+          {
+            'date' => '2011-07-15T15:09:18.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::OptimizePNG',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::InstallInstructions',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN',
+            'date' => '2011-07-15T15:09:18.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::CJFIELDS',
+            'distribution' => 'Dist-Zilla-PluginBundle-CJFIELDS',
+            'date' => '2012-01-06T18:33:40.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-FAYLAND',
+            'module.name' => 'Dist::Zilla::PluginBundle::FAYLAND',
+            'date' => '2013-11-04T04:31:19.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-ReadmeFromPod',
+            'module.name' => 'Dist::Zilla::Plugin::ReadmeFromPod',
+            'date' => '2013-11-04T07:57:09.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::LEONT::PP',
+            'distribution' => 'Dist-Zilla-PluginBundle-LEONT',
+            'date' => '2013-11-07T13:41:49.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Role-ModuleIncluder',
+            'module.name' => 'Dist::Zilla::Role::ModuleIncluder',
+            'date' => '2013-11-12T17:02:33.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-DarkPAN',
+            'module.name' => 'Dist::Zilla::Plugin::Prereqs::DarkPAN',
+            'date' => '2013-11-22T09:52:26.000Z'
+          },
+          {
+            'date' => '2013-11-22T09:52:26.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-DarkPAN',
+            'module.name' => 'Dist::Zilla::Role::PrereqSource::External'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::msg_merge',
+            'distribution' => 'Dist-Zilla-LocaleTextDomain',
+            'date' => '2013-11-24T04:46:39.000Z'
+          },
+          {
+            'date' => '2013-11-26T14:32:43.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Inline',
+            'module.name' => [
+                               'Dist::Zilla::Plugin::Test::Inline',
+                               'Dist::Zilla::Plugin::Test::Inline::Output',
+                               'Dist::Zilla::Plugin::Test::Inline::Extract'
+                             ]
+          },
+          {
+            'date' => '2013-12-04T02:24:34.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Config-Git',
+            'module.name' => 'Dist::Zilla::Plugin::Config::Git'
+          },
+          {
+            'date' => '2014-08-06T05:42:02.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-OnlyCorePrereqs',
+            'module.name' => 'Dist::Zilla::Plugin::OnlyCorePrereqs'
+          },
+          {
+            'date' => '2014-08-03T07:11:18.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Synopsis',
+            'module.name' => 'Dist::Zilla::Plugin::SynopsisTests'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Test-Pod-Coverage-Configurable',
+            'module.name' => 'Dist::Zilla::Plugin::Test::Pod::Coverage::Configurable',
+            'date' => '2014-08-03T17:19:30.000Z'
+          },
+          {
+            'date' => '2014-08-16T02:19:40.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::SHARYANTO::Task',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-SHARYANTO'
+          },
+          {
+            'date' => '2014-08-16T02:19:40.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::SHARYANTO::NonCPAN::Task',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-SHARYANTO'
+          },
+          {
+            'date' => '2014-08-16T02:24:00.000Z',
+            'distribution' => 'Dist-Zilla-Role-BundleDeps',
+            'module.name' => 'Dist::Zilla::Role::BundleDeps'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::MakeMaker::Awesome',
+            'distribution' => 'Dist-Zilla-Plugin-MakeMaker-Awesome',
+            'date' => '2014-08-14T02:09:33.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-PodWeaver',
+            'module.name' => 'Dist::Zilla::Plugin::PodWeaver',
+            'date' => '2014-08-16T12:31:44.000Z'
+          },
+          {
+            'date' => '2014-08-16T15:05:14.000Z',
+            'distribution' => 'Dist-Zilla-Plugins-CJM',
+            'module.name' => 'Dist::Zilla::Plugin::MakeMaker::Custom'
+          },
+          {
+            'date' => '2014-08-16T00:05:45.000Z',
+            'distribution' => 'Dist-Zilla-App-Command-dumpphases',
+            'module.name' => 'Dist::Zilla::dumpphases::Theme::basic::red'
+          },
+          {
+            'date' => '2014-08-16T00:05:45.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::dumpphases',
+            'distribution' => 'Dist-Zilla-App-Command-dumpphases'
+          },
+          {
+            'module.name' => 'Dist::Zilla::dumpphases::Role::Theme::SimpleColor',
+            'distribution' => 'Dist-Zilla-App-Command-dumpphases',
+            'date' => '2014-08-16T00:05:45.000Z'
+          },
+          {
+            'date' => '2014-08-16T00:18:46.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::lsplugins',
+            'distribution' => 'Dist-Zilla-App-Command-lsplugins'
+          },
+          {
+            'date' => '2014-08-16T00:42:53.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::OverridePkgVersion',
+            'distribution' => 'Dist-Zilla-Plugin-OverridePkgVersion'
+          },
+          {
+            'date' => '2014-08-16T00:36:31.000Z',
+            'distribution' => 'Dist-Zilla-Role-Tempdir',
+            'module.name' => 'Dist::Zilla::Tempdir::Item'
+          },
+          {
+            'date' => '2014-08-16T00:38:04.000Z',
+            'module.name' => 'Dist::Zilla::Util::ExpandINI',
+            'distribution' => 'Dist-Zilla-Util-ExpandINI'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::Compile::PerFile',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Compile-PerFile',
+            'date' => '2014-08-16T00:33:00.000Z'
+          },
+          {
+            'date' => '2014-08-16T20:17:05.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-SyncVersions',
+            'module.name' => 'Dist::Zilla::Plugin::Prereqs::SyncVersions'
+          },
+          {
+            'date' => '2014-08-16T23:39:32.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::self',
+            'distribution' => 'Dist-Zilla-App-Command-self'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-RTHOMPSON',
+            'module.name' => 'Dist::Zilla::PluginBundle::RTHOMPSON',
+            'date' => '2014-08-10T23:40:19.000Z'
+          },
+          {
+            'date' => '2014-08-10T23:40:19.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::RTHOMPSON',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-RTHOMPSON'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::Compile',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Compile',
+            'date' => '2014-08-20T15:14:49.000Z'
+          },
+          {
+            'date' => '2014-08-26T11:48:16.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-PERLANCAR-MetaResources',
+            'module.name' => 'Dist::Zilla::Plugin::PERLANCAR::MetaResources'
+          },
+          {
+            'date' => '2014-08-27T15:04:57.000Z',
+            'distribution' => 'Dist-Zilla-Util-Git-Wrapper',
+            'module.name' => 'Dist::Zilla::Util::Git::Wrapper'
+          },
+          {
+            'date' => '2014-08-29T09:58:08.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-if',
+            'module.name' => 'Dist::Zilla::Plugin::if'
+          },
+          {
+            'date' => '2014-08-29T09:59:35.000Z',
+            'distribution' => 'Dist-Zilla-Role-PluginLoader',
+            'module.name' => 'Dist::Zilla::Role::PluginLoader::Configurable'
+          },
+          {
+            'date' => '2014-08-29T09:28:21.000Z',
+            'distribution' => 'Dist-Zilla-Util-Test-KENTNL',
+            'module.name' => 'Dist::Zilla::Util::Test::KENTNL::dztest'
+          },
+          {
+            'date' => '2014-08-29T11:57:54.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MetaProvides',
+            'module.name' => 'Dist::Zilla::MetaProvides::ProvideRecord'
+          },
+          {
+            'date' => '2014-08-29T11:57:54.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MetaProvides',
+            'module.name' => 'Dist::Zilla::Plugin::MetaProvides'
+          },
+          {
+            'date' => '2014-08-31T22:11:56.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::YANICK',
+            'distribution' => 'Dist-Zilla-PluginBundle-YANICK'
+          },
+          {
+            'date' => '2014-08-31T22:07:52.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-NextVersion-Semantic',
+            'module.name' => 'Dist::Zilla::Plugin::PreviousVersion::Changelog'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Bootstrap-ShareDir-Dist',
+            'module.name' => 'Dist::Zilla::Plugin::Bootstrap::ShareDir::Dist',
+            'date' => '2014-08-30T13:51:21.000Z'
+          },
+          {
+            'date' => '2014-09-04T01:11:43.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Conflicts',
+            'distribution' => 'Dist-Zilla-Plugin-Conflicts'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::BioPerl',
+            'distribution' => 'Dist-Zilla-PluginBundle-BioPerl',
+            'date' => '2014-09-05T14:47:10.000Z'
+          },
+          {
+            'date' => '2014-09-06T03:25:54.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-KENTNL',
+            'module.name' => 'Dist::Zilla::Plugin::Author::KENTNL::DistINI'
+          },
+          {
+            'date' => '2014-09-06T06:55:46.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Run',
+            'distribution' => 'Dist-Zilla-Plugin-Run'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-TemplateFile',
+            'module.name' => 'Dist::Zilla::Plugin::TemplateFiles',
+            'date' => '2010-08-18T21:34:54.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Test-Fixme',
+            'module.name' => 'Dist::Zilla::Plugin::Test::Fixme',
+            'date' => '2012-11-11T17:52:00.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-ApacheTest',
+            'module.name' => 'Dist::Zilla::Plugin::ApacheTest',
+            'date' => '2010-04-01T19:44:14.000Z'
+          },
+          {
+            'date' => '2010-07-02T00:30:15.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::SVK',
+            'distribution' => 'Dist-Zilla-Plugin-SVK'
+          },
+          {
+            'date' => '2010-07-02T00:30:15.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::SVK::Tag',
+            'distribution' => 'Dist-Zilla-Plugin-SVK'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::HasVersionTests',
+            'distribution' => 'Dist-Zilla-Plugin-HasVersionTests',
+            'date' => '2010-05-22T14:58:23.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-FindDirByRegex',
+            'module.name' => 'Dist::Zilla::Plugin::FindDirByRegex',
+            'date' => '2010-09-21T12:57:52.000Z'
+          },
+          {
+            'date' => '2010-08-19T08:25:34.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::CSJEWELL::AuthorTest',
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::CSJEWELL::FTPUploadToOwnSite',
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL',
+            'date' => '2010-08-19T08:25:34.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Stash::DefaultURLs',
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL',
+            'date' => '2010-08-19T08:25:34.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL',
+            'module.name' => 'Dist::Zilla::App::Command::configure_CSJEWELL',
+            'date' => '2010-08-19T08:25:34.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::JROCKWAY',
+            'distribution' => 'Dist-Zilla-PluginBundle-JROCKWAY',
+            'date' => '2010-10-18T15:04:15.000Z'
+          },
+          {
+            'date' => '2010-10-18T15:04:15.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::BeJROCKWAY',
+            'distribution' => 'Dist-Zilla-PluginBundle-JROCKWAY'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-EOLTests',
+            'module.name' => 'Dist::Zilla::Plugin::EOLTests',
+            'date' => '2010-06-05T18:14:06.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-RPM',
+            'module.name' => 'Dist::Zilla::App::Command::mkrpmspec',
+            'date' => '2012-11-15T02:01:56.000Z'
+          },
+          {
+            'date' => '2010-06-08T15:38:44.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Subversion::Tag',
+            'distribution' => 'Dist-Zilla-Plugin-Subversion'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Subversion',
+            'module.name' => 'Dist::Zilla::Role::Subversion',
+            'date' => '2010-06-08T15:38:44.000Z'
+          },
+          {
+            'date' => '2010-10-25T18:05:48.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-RBUELS',
+            'module.name' => 'Dist::Zilla::PluginBundle::RBUELS'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::CPAN::Meta::JSON',
+            'distribution' => 'Dist-Zilla-Plugin-Test-CPAN-Meta-JSON',
+            'date' => '2011-04-20T02:39:36.000Z'
+          },
+          {
+            'date' => '2011-07-15T15:09:18.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN',
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::NPM'
+          },
+          {
+            'date' => '2011-07-15T15:09:18.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN',
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::ReadmeFromMD'
+          },
+          {
+            'date' => '2011-07-15T15:09:18.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN',
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::GatherDir::Template'
+          },
+          {
+            'date' => '2011-11-08T23:06:18.000Z',
+            'module.name' => 'Dist::Zilla::Shell',
+            'distribution' => 'Dist-Zilla-Shell'
+          },
+          {
+            'date' => '2012-01-09T13:22:30.000Z',
+            'module.name' => 'Dist::Zilla::Util::FileGenerator',
+            'distribution' => 'Dist-Zilla-Util-FileGenerator'
+          },
+          {
+            'date' => '2012-01-04T03:18:18.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::Legal',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Legal'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::Pod::No404s',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Pod-No404s',
+            'date' => '2011-07-14T23:54:23.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-CopyFilesFromBuild',
+            'module.name' => 'Dist::Zilla::Plugin::CopyFilesFromBuild',
+            'date' => '2010-12-17T17:14:52.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-CustomLicense',
+            'module.name' => 'Dist::Zilla::Plugin::CustomLicense',
+            'date' => '2011-04-21T07:19:40.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::RBO',
+            'distribution' => 'Dist-Zilla-PluginBundle-RBO',
+            'date' => '2010-12-20T12:10:21.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::UploadToSFTP',
+            'distribution' => 'Dist-Zilla-Plugin-UploadToSFTP',
+            'date' => '2011-11-21T19:37:43.000Z'
+          },
+          {
+            'date' => '2011-05-30T21:43:58.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::MSCHOUT',
+            'distribution' => 'Dist-Zilla-PluginBundle-MSCHOUT'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::UploadToCpanSite',
+            'distribution' => 'Dist-Zilla-Plugin-UploadToCpanSite',
+            'date' => '2013-08-09T15:05:14.000Z'
+          },
+          {
+            'date' => '2013-08-22T18:12:44.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-BESSARABV',
+            'module.name' => 'Dist::Zilla::PluginBundle::BESSARABV'
+          },
+          {
+            'date' => '2011-08-23T18:56:15.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::UpdateGitHub',
+            'distribution' => 'Dist-Zilla-PluginBundle-ROKR'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-ROKR',
+            'module.name' => 'Dist::Zilla::Plugin::SurgicalPodWeaver',
+            'date' => '2011-08-23T18:56:15.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::LEONT',
+            'distribution' => 'Dist-Zilla-PluginBundle-LEONT',
+            'date' => '2013-11-07T13:41:49.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-DarkPAN',
+            'module.name' => 'Dist::Zilla::ExternalPrereq',
+            'date' => '2013-11-22T09:52:26.000Z'
+          },
+          {
+            'date' => '2013-11-22T09:52:26.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::listdeps_darkpan',
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-DarkPAN'
+          },
+          {
+            'date' => '2013-11-24T04:46:39.000Z',
+            'distribution' => 'Dist-Zilla-LocaleTextDomain',
+            'module.name' => 'Dist::Zilla::LocaleTextDomain'
+          },
+          {
+            'date' => '2013-11-24T04:46:39.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::msg_scan',
+            'distribution' => 'Dist-Zilla-LocaleTextDomain'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::ALEXBIO',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-ALEXBIO',
+            'date' => '2013-11-24T19:20:37.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-MintingProfile-Author-FIBO',
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::FIBO',
+            'date' => '2013-11-25T09:49:19.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-DBR',
+            'module.name' => 'Dist::Zilla::PluginBundle::DBR',
+            'date' => '2012-06-03T19:03:29.000Z'
+          },
+          {
+            'date' => '2012-04-04T18:58:40.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Web::FileHeader',
+            'distribution' => 'Dist-Zilla-Plugin-Web'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Web::Role::FileMatcher',
+            'distribution' => 'Dist-Zilla-Plugin-Web',
+            'date' => '2012-04-04T18:58:40.000Z'
+          },
+          {
+            'date' => '2012-07-06T21:05:22.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-GETTY',
+            'module.name' => 'Dist::Zilla::PluginBundle::GETTY'
+          },
+          {
+            'date' => '2012-06-18T17:22:07.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::RemovePrereqsMatching',
+            'distribution' => 'Dist-Zilla-Plugin-RemovePrereqsMatching'
+          },
+          {
+            'date' => '2013-12-20T15:04:03.000Z',
+            'module.name' => 'Dist::Zilla::Util::Git::Refs::Ref',
+            'distribution' => 'Dist-Zilla-Util-Git-Refs'
+          },
+          {
+            'date' => '2013-12-20T14:01:22.000Z',
+            'module.name' => 'Dist::Zilla::Util::Git::Tags',
+            'distribution' => 'Dist-Zilla-Util-Git-Tags'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::CJM',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-CJM',
+            'date' => '2013-12-21T19:34:53.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Config-Git',
+            'module.name' => 'Dist::Zilla::Role::GitConfig',
+            'date' => '2013-12-04T02:24:34.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-ReleaseOnlyWithLatest',
+            'module.name' => 'Dist::Zilla::Plugin::ReleaseOnlyWithLatest',
+            'date' => '2013-12-10T02:23:04.000Z'
+          },
+          {
+            'date' => '2013-12-10T18:47:11.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::NoAutomatedTesting',
+            'distribution' => 'Dist-Zilla-Plugin-NoAutomatedTesting'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-InsertExample',
+            'module.name' => 'Dist::Zilla::Plugin::InsertExample',
+            'date' => '2013-12-14T02:20:59.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-CSS-Compressor',
+            'module.name' => 'Dist::Zilla::Plugin::CSS::Compressor',
+            'date' => '2013-12-14T02:49:07.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-LogContextual',
+            'module.name' => 'Dist::Zilla::Plugin::LogContextual',
+            'date' => '2013-12-14T10:40:55.000Z'
+          },
+          {
+            'date' => '2013-12-14T12:05:15.000Z',
+            'distribution' => 'Dist-Zilla-UtilRole-MaybeZilla',
+            'module.name' => 'Dist::Zilla::UtilRole::MaybeZilla'
+          },
+          {
+            'date' => '2013-12-15T19:38:40.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-GRS',
+            'module.name' => 'Dist::Zilla::PluginBundle::GRS'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-BINGOS',
+            'module.name' => 'Dist::Zilla::PluginBundle::BINGOS',
+            'date' => '2013-08-01T09:03:43.000Z'
+          },
+          {
+            'date' => '2013-08-03T13:27:53.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::PortabilityTests',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Portability'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Travis::ConfigForReleaseBranch',
+            'distribution' => 'Dist-Zilla-Plugin-Travis-ConfigForReleaseBranch',
+            'date' => '2013-08-12T07:51:23.000Z'
+          },
+          {
+            'date' => '2014-01-27T10:40:39.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Mercurial::Tag',
+            'distribution' => 'Dist-Zilla-Plugin-Mercurial'
+          },
+          {
+            'date' => '2014-01-27T10:40:39.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Mercurial::Check',
+            'distribution' => 'Dist-Zilla-Plugin-Mercurial'
+          },
+          {
+            'date' => '2014-01-28T03:43:57.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MungeFile-WithConfigFile',
+            'module.name' => 'Dist::Zilla::Plugin::MungeFile::WithConfigFile'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Repository',
+            'module.name' => 'Dist::Zilla::Plugin::Repository',
+            'date' => '2014-02-25T09:44:04.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-RHOELZ',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::RHOELZ',
+            'date' => '2014-03-03T20:07:55.000Z'
+          },
+          {
+            'date' => '2014-03-12T14:46:30.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-NIGELM',
+            'module.name' => 'Dist::Zilla::PluginBundle::NIGELM'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Rinci::Wrap',
+            'distribution' => 'Dist-Zilla-Plugin-Rinci-Wrap',
+            'date' => '2014-03-15T16:44:54.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-BumpVersionAfterRelease',
+            'module.name' => 'Dist::Zilla::Plugin::BumpVersionAfterRelease',
+            'date' => '2014-03-28T14:44:39.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-RJBS',
+            'module.name' => 'Dist::Zilla::PluginBundle::RJBS',
+            'date' => '2014-03-16T15:54:48.000Z'
+          },
+          {
+            'date' => '2014-02-15T00:28:06.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-ZOFFIX',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::ZOFFIX'
+          },
+          {
+            'date' => '2014-02-18T08:09:22.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-RPM-Push',
+            'module.name' => 'Dist::Zilla::App::Command::generate_spec'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Git-CheckFor',
+            'module.name' => 'Dist::Zilla::PluginBundle::Git::CheckFor',
+            'date' => '2014-04-11T19:59:01.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Git-CheckFor',
+            'module.name' => 'Dist::Zilla::Plugin::Git::CheckFor::MergeConflicts',
+            'date' => '2014-04-11T19:59:01.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-App-Command-critic',
+            'module.name' => 'Dist::Zilla::App::Command::critic',
+            'date' => '2014-04-13T01:48:56.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Stash-Contributors',
+            'module.name' => 'Dist::Zilla::Stash::Contributors::Contributor',
+            'date' => '2013-03-22T07:32:53.000Z'
+          },
+          {
+            'date' => '2013-03-22T18:59:54.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-LOGIE',
+            'module.name' => 'Dist::Zilla::PluginBundle::LOGIE'
+          },
+          {
+            'date' => '2013-03-22T18:59:54.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-LOGIE',
+            'module.name' => 'Dist::Zilla::PluginBundle::LOGIE'
+          },
+          {
+            'date' => '2013-03-25T02:02:40.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::BundleInspector',
+            'distribution' => 'Dist-Zilla-Plugin-BundleInspector'
+          },
+          {
+            'date' => '2013-04-07T04:45:41.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-NameFromDirectory',
+            'module.name' => 'Dist::Zilla::Plugin::NameFromDirectory'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::CPAN::Changes',
+            'distribution' => 'Dist-Zilla-Plugin-Test-CPAN-Changes',
+            'date' => '2013-04-17T22:46:48.000Z'
+          },
+          {
+            'date' => '2012-07-28T10:52:13.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::ChangesHasContent',
+            'distribution' => 'Dist-Zilla-Plugin-CheckChangesHasContent'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Extras',
+            'module.name' => 'Dist::Zilla::Plugin::Extras',
+            'date' => '2012-08-08T03:37:25.000Z'
+          },
+          {
+            'date' => '2012-08-20T11:22:43.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Clean',
+            'distribution' => 'Dist-Zilla-Plugin-Clean'
+          },
+          {
+            'date' => '2012-02-03T06:29:51.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::GitObtain',
+            'distribution' => 'Dist-Zilla-Plugin-GitObtain'
+          },
+          {
+            'date' => '2012-03-26T19:48:41.000Z',
+            'module.name' => 'Dist::Zilla::Role::Git::Remote::Update',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Remote-Check'
+          },
+          {
+            'date' => '2012-03-26T19:48:41.000Z',
+            'module.name' => 'Dist::Zilla::Role::Git::Remote',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Remote-Check'
+          },
+          {
+            'date' => '2012-03-26T19:48:41.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Remote-Check',
+            'module.name' => 'Dist::Zilla::Plugin::Git::Remote::Update::BeforeBuild'
+          },
+          {
+            'date' => '2012-03-26T19:48:41.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Git::Remote::Check::BeforeBuild',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Remote-Check'
+          },
+          {
+            'date' => '2012-03-26T19:48:41.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Remote-Check',
+            'module.name' => 'Dist::Zilla::Plugin::Git::Remote::Check'
+          },
+          {
+            'date' => '2012-03-31T18:36:10.000Z',
+            'module.name' => 'Dist::Zilla::Config::Slicer',
+            'distribution' => 'Dist-Zilla-Config-Slicer'
+          },
+          {
+            'date' => '2012-02-15T03:10:05.000Z',
+            'module.name' => [
+                               'Dist::Zilla::Plugin::Moz::InstallRDF',
+                               'Dist::Zilla::Plugin::Moz::InstallRDF::Template'
+                             ],
+            'distribution' => 'Dist-Zilla-Plugin-Moz'
+          },
+          {
+            'date' => '2013-05-03T01:41:24.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ChangeStats-Git',
+            'module.name' => 'Dist::Zilla::Role::Author::YANICK::RequireZillaRole'
+          },
+          {
+            'date' => '2013-02-13T17:44:22.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ReportPhase',
+            'module.name' => 'Dist::Zilla::Plugin::ReportPhase'
+          },
+          {
+            'date' => '2012-06-23T18:34:24.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::CheckVersionIncrement',
+            'distribution' => 'Dist-Zilla-Plugin-CheckVersionIncrement'
+          },
+          {
+            'date' => '2013-06-27T22:33:25.000Z',
+            'module.name' => 'Dist::Zilla::Role::PluginBundle::Merged',
+            'distribution' => 'Dist-Zilla-Role-PluginBundle-Merged'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-PPPort',
+            'module.name' => 'Dist::Zilla::Plugin::PPPort',
+            'date' => '2014-04-25T22:14:36.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-InstallGuide',
+            'module.name' => 'Dist::Zilla::Plugin::InstallGuide',
+            'date' => '2014-04-29T23:17:56.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::RWSTAUNER',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-RWSTAUNER',
+            'date' => '2014-05-05T03:33:19.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-RWSTAUNER',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::RWSTAUNER::Minter',
+            'date' => '2014-05-05T03:33:19.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::GithubMeta',
+            'distribution' => 'Dist-Zilla-Plugin-GithubMeta',
+            'date' => '2014-05-12T21:26:01.000Z'
+          },
+          {
+            'date' => '2014-05-22T19:48:36.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Prereqs::AuthorDeps',
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-AuthorDeps'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Milla::MintFiles',
+            'distribution' => 'Dist-Milla',
+            'date' => '2014-05-08T15:35:31.000Z'
+          },
+          {
+            'date' => '2014-05-08T15:35:31.000Z',
+            'module.name' => 'Dist::Zilla::MintingProfile::Milla',
+            'distribution' => 'Dist-Milla'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Stash::Store::Git',
+            'distribution' => 'Dist-Zilla-Stash-Store-Git',
+            'date' => '2014-05-15T03:28:49.000Z'
+          },
+          {
+            'date' => '2014-05-18T15:19:19.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-AVAR',
+            'module.name' => 'Dist::Zilla::PluginBundle::AVAR'
+          },
+          {
+            'date' => '2014-05-20T04:50:52.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::CheckIssues',
+            'distribution' => 'Dist-Zilla-Plugin-CheckIssues'
+          },
+          {
+            'date' => '2014-04-27T11:42:58.000Z',
+            'module.name' => 'Dist::Zilla::Util::SimpleMunge',
+            'distribution' => 'Dist-Zilla-Util-SimpleMunge'
+          },
+          {
+            'date' => '2014-06-28T10:39:06.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-GitHub',
+            'module.name' => 'Dist::Zilla::App::Command::gh'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::kwalitee',
+            'distribution' => 'Dist-Zilla-App-Command-kwalitee',
+            'date' => '2014-07-01T09:50:11.000Z'
+          },
+          {
+            'date' => '2014-06-14T16:36:56.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Git',
+            'module.name' => 'Dist::Zilla::Plugin::Git::Push'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::ODYNIEC',
+            'distribution' => 'Dist-Zilla-PluginBundle-ODYNIEC',
+            'date' => '2014-06-16T19:50:52.000Z'
+          },
+          {
+            'date' => '2014-07-08T07:22:10.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ChangelogFromGit',
+            'module.name' => 'Dist::Zilla::Plugin::ChangelogFromGit'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-CheckExtraTests',
+            'module.name' => 'Dist::Zilla::App::Command::xtest',
+            'date' => '2014-07-14T21:37:40.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugins-CJM',
+            'module.name' => 'Dist::Zilla::Plugin::GitVersionCheckCJM',
+            'date' => '2014-08-16T15:05:14.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-TestBaseIncluder',
+            'module.name' => 'Dist::Zilla::Plugin::TestBaseIncluder',
+            'date' => '2014-08-16T18:02:15.000Z'
+          },
+          {
+            'date' => '2014-08-16T23:17:45.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Test-NoTabs',
+            'module.name' => 'Dist::Zilla::Plugin::Test::NoTabs'
+          },
+          {
+            'date' => '2014-08-23T21:04:12.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-LicenseFromModule',
+            'module.name' => 'Dist::Zilla::Plugin::LicenseFromModule'
+          },
+          {
+            'distribution' => 'Dist-Zilla-App-Command-lsplugins',
+            'module.name' => 'Dist::Zilla::lsplugins::Module',
+            'date' => '2014-08-16T00:18:46.000Z'
+          },
+          {
+            'date' => '2014-08-16T00:06:08.000Z',
+            'module.name' => 'Dist::Zilla::Util::BundleInfo::Plugin',
+            'distribution' => 'Dist-Zilla-Util-BundleInfo'
+          },
+          {
+            'date' => '2014-08-16T00:05:45.000Z',
+            'module.name' => 'Dist::Zilla::dumpphases::Theme::basic::green',
+            'distribution' => 'Dist-Zilla-App-Command-dumpphases'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Util::RoleDB::Items::ThirdParty',
+            'distribution' => 'Dist-Zilla-Util-RoleDB',
+            'date' => '2014-08-16T00:39:28.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Util-RoleDB',
+            'module.name' => 'Dist::Zilla::Util::RoleDB::Items::Core',
+            'date' => '2014-08-16T00:39:28.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Util-CurrentCmd',
+            'module.name' => 'Dist::Zilla::Util::CurrentCmd',
+            'date' => '2014-08-16T00:59:18.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::RewriteVersion::Sanitized',
+            'distribution' => 'Dist-Zilla-Plugin-RewriteVersion-Sanitized',
+            'date' => '2014-08-16T00:57:50.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-Soften',
+            'module.name' => 'Dist::Zilla::Plugin::Prereqs::Soften',
+            'date' => '2014-08-16T00:57:46.000Z'
+          },
+          {
+            'date' => '2014-08-16T00:34:59.000Z',
+            'module.name' => 'Dist::Zilla::Role::Bootstrap',
+            'distribution' => 'Dist-Zilla-Role-Bootstrap'
+          },
+          {
+            'date' => '2014-08-16T00:38:04.000Z',
+            'distribution' => 'Dist-Zilla-Util-ExpandINI',
+            'module.name' => 'Dist::Zilla::Util::ExpandINI::Reader'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::PrePAN',
+            'distribution' => 'Dist-Zilla-Plugin-PrePAN',
+            'date' => '2014-08-16T03:45:55.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::bakeini',
+            'distribution' => 'Dist-Zilla-App-Command-bakeini',
+            'date' => '2014-08-16T05:22:40.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Prereqs',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::install',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::App::Command::authordeps',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::App::Command::add',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::App::Command::setup',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::File::FromCode',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Util::AuthorDeps',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::PluginBundle::Classic'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::PkgVersion'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::PodSyntaxTests',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::Manifest',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::MetaYAML',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::AutoPrereq',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::MetaJSON'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::DistINI',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::MetaNoIndex'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::MakeMaker::Runner',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::FileFinder::Filter'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::MVP::RootSection'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::MVP::Assembler::Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::FileFinder',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::VersionProvider',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::BeforeRelease'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::AfterBuild'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::FileGatherer',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::FileInjector'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::BeforeArchive',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::PluginBundle::Easy',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Stash::PAUSE',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-31T13:31:09.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::Plicease',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::Upload',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease',
+            'date' => '2014-07-31T13:31:09.000Z'
+          },
+          {
+            'date' => '2014-08-26T06:41:29.000Z',
+            'module.name' => 'Dist::Zilla::Role::FileWatcher',
+            'distribution' => 'Dist-Zilla-Role-File-ChangeNotification'
+          },
+          {
+            'date' => '2014-08-27T15:54:39.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::ManifestInRoot',
+            'distribution' => 'Dist-Zilla-Plugin-ManifestInRoot'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Util::PluginLoader',
+            'distribution' => 'Dist-Zilla-Role-PluginLoader',
+            'date' => '2014-08-29T09:59:35.000Z'
+          },
+          {
+            'date' => '2014-08-29T09:28:21.000Z',
+            'module.name' => 'Dist::Zilla::Util::Test::KENTNL',
+            'distribution' => 'Dist-Zilla-Util-Test-KENTNL'
+          },
+          {
+            'date' => '2014-08-31T22:07:52.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-NextVersion-Semantic',
+            'module.name' => 'Dist::Zilla::Role::YANICK::PreviousVersionProvider'
+          },
+          {
+            'date' => '2014-09-03T20:38:53.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::DROLSKY',
+            'distribution' => 'Dist-Zilla-PluginBundle-DROLSKY'
+          },
+          {
+            'date' => '2014-09-02T08:10:02.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::INI::Baked',
+            'distribution' => 'Dist-Zilla-Plugin-INI-Baked'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::ARODLAND',
+            'distribution' => 'Dist-Zilla-PluginBundle-ARODLAND',
+            'date' => '2014-09-04T03:32:24.000Z'
+          },
+          {
+            'date' => '2014-09-06T01:20:18.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ModuleBuildTiny-Fallback',
+            'module.name' => 'Dist::Zilla::Plugin::ModuleBuildTiny::Fallback'
+          },
+          {
+            'date' => '2014-09-06T02:17:03.000Z',
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::ETHER',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-ETHER'
+          },
+          {
+            'date' => '2014-09-06T06:55:46.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Run::BeforeRelease',
+            'distribution' => 'Dist-Zilla-Plugin-Run'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Run::AfterRelease',
+            'distribution' => 'Dist-Zilla-Plugin-Run',
+            'date' => '2014-09-06T06:55:46.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::OptionalFeature',
+            'distribution' => 'Dist-Zilla-Plugin-OptionalFeature',
+            'date' => '2014-09-06T07:48:57.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::EOF',
+            'distribution' => 'Dist-Zilla-Plugin-Test-EOF',
+            'date' => '2014-09-06T13:03:55.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-CopyTo',
+            'module.name' => 'Dist::Zilla::Plugin::CopyTo',
+            'date' => '2010-01-11T02:02:12.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-SvnObtain',
+            'module.name' => 'Dist::Zilla::Plugin::SvnObtain',
+            'date' => '2010-08-11T00:37:30.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-RPM',
+            'module.name' => 'Dist::Zilla::Plugin::RPM',
+            'date' => '2012-11-15T02:01:56.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::PickyPodWeaver',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-OLIVER',
+            'date' => '2012-09-28T16:52:21.000Z'
+          },
+          {
+            'date' => '2010-07-02T00:30:15.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-SVK',
+            'module.name' => 'Dist::Zilla::PluginBundle::SVK'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::CSJEWELL::VersionGetter',
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL',
+            'date' => '2010-08-19T08:25:34.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::CSJEWELL::DotFileFix',
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL',
+            'date' => '2010-08-19T08:25:34.000Z'
+          },
+          {
+            'date' => '2011-01-12T22:57:50.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-WOLVERIAN',
+            'module.name' => 'Dist::Zilla::PluginBundle::WOLVERIAN'
+          },
+          {
+            'date' => '2011-07-09T00:38:34.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ScpDeploy',
+            'module.name' => 'Dist::Zilla::Plugin::ScpDeploy'
+          },
+          {
+            'date' => '2011-08-16T17:24:07.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Prepender',
+            'distribution' => 'Dist-Zilla-Plugin-Prepender'
+          },
+          {
+            'date' => '2010-12-22T01:13:43.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-NUFFIN',
+            'module.name' => 'Dist::Zilla::PluginBundle::NUFFIN'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::FakeFaker',
+            'distribution' => 'Dist-Zilla-Plugin-FakeFaker',
+            'date' => '2011-05-24T11:51:02.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::NoSmartCommentsTests',
+            'distribution' => 'Dist-Zilla-Plugin-NoSmartCommentsTests',
+            'date' => '2011-04-24T23:10:43.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-JSAN',
+            'module.name' => 'Dist::Zilla::Plugin::JSAN',
+            'date' => '2011-07-15T15:09:18.000Z'
+          },
+          {
+            'date' => '2011-07-15T15:09:18.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::StaticDir',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::GitHubDocs',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN',
+            'date' => '2011-07-15T15:09:18.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::EmailNotify',
+            'distribution' => 'Dist-Zilla-Plugin-EmailNotify',
+            'date' => '2011-07-13T11:52:44.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::UseAllModules',
+            'distribution' => 'Dist-Zilla-Plugin-Test-UseAllModules',
+            'date' => '2011-08-13T22:53:33.000Z'
+          },
+          {
+            'date' => '2010-11-06T03:52:07.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-PDONELAN',
+            'module.name' => 'Dist::Zilla::PluginBundle::PDONELAN'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-CopyReadmeFromBuild',
+            'module.name' => 'Dist::Zilla::Plugin::CopyReadmeFromBuild',
+            'date' => '2011-08-23T18:49:38.000Z'
+          },
+          {
+            'date' => '2011-02-17T12:47:36.000Z',
+            'module.name' => 'Dist::Zilla::MintingProfile::Catalyst',
+            'distribution' => 'Dist-Zilla-Plugin-Catalyst'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Inject',
+            'distribution' => 'Dist-Zilla-Plugin-Inject',
+            'date' => '2010-12-02T16:25:04.000Z'
+          },
+          {
+            'date' => '2012-01-13T00:27:52.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Version::FromSubversion',
+            'distribution' => 'Dist-Zilla-Plugin-Version-FromSubversion'
+          },
+          {
+            'date' => '2012-02-15T03:10:05.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Moz::Archive',
+            'distribution' => 'Dist-Zilla-Plugin-Moz'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::PkgVersionIfModuleWithPod',
+            'distribution' => 'Dist-Zilla-Plugin-PkgVersionIfModuleWithPod',
+            'date' => '2012-08-20T16:45:45.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::UploadToGoogleCode',
+            'distribution' => 'Dist-Zilla-Plugin-UploadToGoogleCode',
+            'date' => '2012-09-01T23:26:10.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-CheckMetaResources',
+            'module.name' => 'Dist::Zilla::Plugin::CheckMetaResources',
+            'date' => '2012-08-08T23:42:10.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::CheckChangesHasContent',
+            'distribution' => 'Dist-Zilla-Plugin-CheckChangesHasContent',
+            'date' => '2012-07-28T10:52:13.000Z'
+          },
+          {
+            'date' => '2012-04-04T18:58:40.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::add_header',
+            'distribution' => 'Dist-Zilla-Plugin-Web'
+          },
+          {
+            'date' => '2012-04-04T18:58:40.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Web',
+            'module.name' => 'Dist::Zilla::App::Command::bundle'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-AutoMetaResources',
+            'module.name' => 'Dist::Zilla::Plugin::AutoMetaResources',
+            'date' => '2013-04-14T01:55:37.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ChangelogFromGit::Debian',
+            'distribution' => 'Dist-Zilla-Plugin-ChangelogFromGit-Debian',
+            'date' => '2013-04-06T14:18:46.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Dpkg-PerlbrewStarman',
+            'module.name' => 'Dist::Zilla::Plugin::Dpkg::PerlbrewStarman',
+            'date' => '2013-04-11T00:24:50.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Dpkg',
+            'module.name' => 'Dist::Zilla::Plugin::Dpkg',
+            'date' => '2013-04-11T00:15:27.000Z'
+          },
+          {
+            'date' => '2013-05-03T01:41:24.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ChangeStats-Git',
+            'module.name' => 'Dist::Zilla::Role::Author::YANICK::Changelog'
+          },
+          {
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::Caelum',
+            'distribution' => 'Dist-Zilla-MintingProfile-Author-Caelum',
+            'date' => '2013-05-21T15:02:08.000Z'
+          },
+          {
+            'date' => '2012-03-26T19:48:41.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Remote-Check',
+            'module.name' => 'Dist::Zilla::Plugin::Git::Remote::Update'
+          },
+          {
+            'date' => '2012-03-26T19:48:41.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Remote-Check',
+            'module.name' => 'Dist::Zilla::Role::Git::LocalRepository'
+          },
+          {
+            'date' => '2012-03-20T00:36:55.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-SchwartzRatio',
+            'module.name' => 'Dist::Zilla::Plugin::SchwartzRatio'
+          },
+          {
+            'date' => '2012-05-01T15:50:36.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::NRR',
+            'distribution' => 'Dist-Zilla-PluginBundle-NRR'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-BuildFile',
+            'module.name' => 'Dist::Zilla::Plugin::BuildFile',
+            'date' => '2013-02-13T18:05:26.000Z'
+          },
+          {
+            'date' => '2013-09-07T14:01:26.000Z',
+            'distribution' => 'Dist-Zilla-Deb',
+            'module.name' => 'Dist::Zilla::App::Command::debi'
+          },
+          {
+            'date' => '2013-09-23T16:53:02.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MakeMaker-Highlander',
+            'module.name' => 'Dist::Zilla::Plugin::MakeMaker::Highlander'
+          },
+          {
+            'date' => '2013-09-27T15:37:36.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::podpreview',
+            'distribution' => 'Dist-Zilla-App-Command-podpreview'
+          },
+          {
+            'date' => '2013-12-10T00:31:04.000Z',
+            'module.name' => 'Dist::Zilla::Stash::DUKGO',
+            'distribution' => 'Dist-Zilla-Plugin-UploadToDuckPAN'
+          },
+          {
+            'date' => '2013-12-10T00:31:04.000Z',
+            'module.name' => 'Dist::Zilla::Stash::DUCKPAN',
+            'distribution' => 'Dist-Zilla-Plugin-UploadToDuckPAN'
+          },
+          {
+            'date' => '2013-12-14T02:34:08.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Template-Tiny',
+            'module.name' => 'Dist::Zilla::Plugin::Template::Tiny'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-TextTabs',
+            'module.name' => 'Dist::Zilla::Plugin::TextTabs',
+            'date' => '2013-12-14T02:36:55.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::msg_init',
+            'distribution' => 'Dist-Zilla-LocaleTextDomain',
+            'date' => '2013-11-24T04:46:39.000Z'
+          },
+          {
+            'date' => '2013-11-24T04:46:39.000Z',
+            'distribution' => 'Dist-Zilla-LocaleTextDomain',
+            'module.name' => 'Dist::Zilla::Role::PotWriter'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Test-CheckDeps',
+            'module.name' => 'Dist::Zilla::Plugin::Test::CheckDeps',
+            'date' => '2013-12-20T01:23:29.000Z'
+          },
+          {
+            'date' => '2013-12-18T08:24:54.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Subversion::Check',
+            'distribution' => 'Dist-Zilla-Plugin-Subversion-Check'
+          },
+          {
+            'date' => '2013-11-03T20:05:53.000Z',
+            'module.name' => [
+                               'Dist::Zilla::Plugin::Chrome::ExtraPrompt',
+                               'Dist::Zilla::Role::Chrome::ExtraPrompt'
+                             ],
+            'distribution' => 'Dist-Zilla-Plugin-Chrome-ExtraPrompt'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::AssertOS',
+            'distribution' => 'Dist-Zilla-Plugin-AssertOS',
+            'date' => '2013-10-04T21:17:05.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-DuckpanMeta',
+            'module.name' => 'Dist::Zilla::Plugin::DuckpanMeta',
+            'date' => '2013-11-10T01:40:45.000Z'
+          },
+          {
+            'date' => '2013-11-12T17:02:33.000Z',
+            'distribution' => 'Dist-Zilla-Role-ModuleIncluder',
+            'module.name' => 'Dist::Zilla::Plugin::ModuleIncluder'
+          },
+          {
+            'date' => '2013-11-16T22:23:01.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-ARJONES',
+            'module.name' => 'Dist::Zilla::PluginBundle::ARJONES'
+          },
+          {
+            'date' => '2014-01-17T03:01:09.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::RunByBranch::AfterMint',
+            'distribution' => 'Dist-Zilla-Plugin-RunByBranch'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::RunByBranch::Release',
+            'distribution' => 'Dist-Zilla-Plugin-RunByBranch',
+            'date' => '2014-01-17T03:01:09.000Z'
+          },
+          {
+            'date' => '2013-12-27T02:52:16.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Alien',
+            'distribution' => 'Dist-Zilla-Plugin-Alien'
+          },
+          {
+            'date' => '2013-12-31T17:31:07.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MathInt64',
+            'module.name' => 'Dist::Zilla::Plugin::MathInt64'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::BuildSelf',
+            'distribution' => 'Dist-Zilla-Plugin-BuildSelf',
+            'date' => '2013-05-25T17:40:49.000Z'
+          },
+          {
+            'date' => '2013-06-03T06:34:44.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-CheckEmacsChangeLog',
+            'module.name' => 'Dist::Zilla::Plugin::CheckEmacsChangeLog'
+          },
+          {
+            'date' => '2013-03-22T18:59:54.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::LOGIE',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-LOGIE'
+          },
+          {
+            'date' => '2013-07-23T20:55:43.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MakeMaker-IncShareDir',
+            'module.name' => 'Dist::Zilla::Plugin::MakeMaker::IncShareDir'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::PodInherit',
+            'distribution' => 'Dist-Zilla-Plugin-PodInherit',
+            'date' => '2013-08-04T02:21:00.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::DistManifest',
+            'distribution' => 'Dist-Zilla-Plugin-Test-DistManifest',
+            'date' => '2013-08-03T13:25:03.000Z'
+          },
+          {
+            'date' => '2013-08-03T13:22:11.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::CheckChangesTests',
+            'distribution' => 'Dist-Zilla-Plugin-Test-CheckChanges'
+          },
+          {
+            'date' => '2013-07-03T21:29:06.000Z',
+            'distribution' => 'Dist-Zilla-MintingProfile-MooseXDeclare',
+            'module.name' => 'Dist::Zilla::MintingProfile::MooseXDeclare'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::PodPurler',
+            'distribution' => 'Dist-Zilla-Plugin-PodPurler',
+            'date' => '2013-07-06T11:55:30.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-ROKR',
+            'module.name' => 'Dist::Zilla::Plugin::DynamicManifest',
+            'date' => '2011-08-23T18:56:15.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-RWSTAUNER',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::RWSTAUNER',
+            'date' => '2014-05-05T03:33:19.000Z'
+          },
+          {
+            'date' => '2014-02-24T14:26:11.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::JQUELIN',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-JQUELIN'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-IDOPEREL',
+            'module.name' => 'Dist::Zilla::PluginBundle::IDOPEREL',
+            'date' => '2014-02-26T17:48:14.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::MintingProfile::IDOPEREL',
+            'distribution' => 'Dist-Zilla-PluginBundle-IDOPEREL',
+            'date' => '2014-02-26T17:48:14.000Z'
+          },
+          {
+            'date' => '2014-02-27T23:05:00.000Z',
+            'module.name' => 'Dist::Zilla::Role::MetaCPANInterfacer',
+            'distribution' => 'Dist-Zilla-Role-MetaCPANInterfacer'
+          },
+          {
+            'date' => '2014-03-09T05:10:41.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::LocalBrew',
+            'distribution' => 'Dist-Zilla-Plugin-Test-LocalBrew'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::CheckSelfDependency',
+            'distribution' => 'Dist-Zilla-Plugin-CheckSelfDependency',
+            'date' => '2014-01-25T03:21:51.000Z'
+          },
+          {
+            'date' => '2014-03-21T10:15:55.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-InsertCopyright',
+            'module.name' => 'Dist::Zilla::Plugin::InsertCopyright'
+          },
+          {
+            'date' => '2014-03-20T04:09:12.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::perltidy',
+            'distribution' => 'Dist-Zilla-Plugin-PerlTidy'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::GitStore::ConfigConsumer',
+            'distribution' => 'Dist-Zilla-Stash-Store-Git',
+            'date' => '2014-05-15T03:28:49.000Z'
+          },
+          {
+            'date' => '2014-06-14T16:36:56.000Z',
+            'module.name' => 'Dist::Zilla::Role::Git::DirtyFiles',
+            'distribution' => 'Dist-Zilla-Plugin-Git'
+          },
+          {
+            'date' => '2014-06-14T16:36:56.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Git',
+            'distribution' => 'Dist-Zilla-Plugin-Git'
+          },
+          {
+            'date' => '2014-06-14T16:36:56.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Git::GatherDir',
+            'distribution' => 'Dist-Zilla-Plugin-Git'
+          },
+          {
+            'date' => '2014-06-17T23:11:09.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Test-PodSpelling',
+            'module.name' => 'Dist::Zilla::Plugin::PodSpellingTests'
+          },
+          {
+            'date' => '2014-06-18T14:02:23.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MojibakeTests',
+            'module.name' => 'Dist::Zilla::Plugin::MojibakeTests'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Role-Store',
+            'module.name' => 'Dist::Zilla::Role::Store',
+            'date' => '2014-04-26T21:40:27.000Z'
+          },
+          {
+            'date' => '2014-04-06T20:40:30.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::VerifyPhases',
+            'distribution' => 'Dist-Zilla-Plugin-VerifyPhases'
+          },
+          {
+            'date' => '2014-04-07T17:05:17.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-ACPS',
+            'module.name' => 'Dist::Zilla::Plugin::ACPS::Release'
+          },
+          {
+            'date' => '2014-05-17T05:04:04.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ConvertYAMLChanges',
+            'module.name' => 'Dist::Zilla::Plugin::ConvertYAMLChanges'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::GitHub',
+            'distribution' => 'Dist-Zilla-Plugin-GitHub',
+            'date' => '2014-06-28T10:39:06.000Z'
+          },
+          {
+            'date' => '2014-06-28T10:39:06.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-GitHub',
+            'module.name' => 'Dist::Zilla::Plugin::GitHub'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-MITHALDU',
+            'module.name' => 'Dist::Zilla::PluginBundle::MITHALDU::Templates',
+            'date' => '2014-07-02T22:01:04.000Z'
+          },
+          {
+            'date' => '2014-07-20T20:23:41.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-CHIM',
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::CHIM'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::RunExtraTests',
+            'distribution' => 'Dist-Zilla-Plugin-CheckExtraTests',
+            'date' => '2014-07-14T21:37:40.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::version',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::smoke',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::new',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::File::InMemory',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::PluginBundle::Basic',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::PluginBundle::FakeClassic',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::MetaTests'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::Encoding'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::ShareDir'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::ExecDir'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::NextRelease',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::PodCoverageTests',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::ConfirmRelease',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::MVP::Reader::Finder'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::MVP::Assembler::GlobalConfig'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::TextTemplate',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::BeforeBuild',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::ConfigDumper',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::FilePruner',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::FileMunger',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::MetaProvider'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::StubBuild',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::MintingProfile::ShareDir',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::Stash::Login',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::MintingProfile::Default',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Stash::User',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-08-16T00:05:45.000Z',
+            'module.name' => 'Dist::Zilla::dumpphases::Theme::basic::plain',
+            'distribution' => 'Dist-Zilla-App-Command-dumpphases'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Prereqs::Recommend::MatchInstalled',
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-Recommend-MatchInstalled',
+            'date' => '2014-08-16T00:31:40.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Tempdir::Item::State',
+            'distribution' => 'Dist-Zilla-Role-Tempdir',
+            'date' => '2014-08-16T00:36:31.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Rinci::ScriptFromFunc',
+            'distribution' => 'Dist-Zilla-Plugin-Rinci-ScriptFromFunc',
+            'date' => '2014-08-16T02:19:17.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ArchiveRelease',
+            'distribution' => 'Dist-Zilla-Plugins-CJM',
+            'date' => '2014-08-16T15:05:14.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugins-CJM',
+            'module.name' => 'Dist::Zilla::Role::ModuleInfo',
+            'date' => '2014-08-16T15:05:14.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease',
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::OSPrereqsNot',
+            'date' => '2014-07-31T13:31:09.000Z'
+          },
+          {
+            'date' => '2014-07-31T13:31:09.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::Recommend',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease'
+          },
+          {
+            'date' => '2014-07-31T13:31:09.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease',
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::Init'
+          },
+          {
+            'date' => '2014-07-31T13:31:09.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::Tests',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease'
+          },
+          {
+            'date' => '2014-07-31T13:31:09.000Z',
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::Plicease',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease'
+          },
+          {
+            'date' => '2014-08-03T00:05:08.000Z',
+            'module.name' => 'Dist::Zilla::App::CommandHelper::ChainSmoking',
+            'distribution' => 'Dist-Zilla-TravisCI'
+          },
+          {
+            'date' => '2014-08-29T09:58:08.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::if::not',
+            'distribution' => 'Dist-Zilla-Plugin-if'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::PluginLoader',
+            'distribution' => 'Dist-Zilla-Role-PluginLoader',
+            'date' => '2014-08-29T09:59:35.000Z'
+          },
+          {
+            'date' => '2014-08-29T11:57:54.000Z',
+            'module.name' => 'Dist::Zilla::MetaProvides::Types',
+            'distribution' => 'Dist-Zilla-Plugin-MetaProvides'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Bootstrap::ShareDir::Module',
+            'distribution' => 'Dist-Zilla-Plugin-Bootstrap-ShareDir-Module',
+            'date' => '2014-08-31T14:07:19.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Git::NextRelease',
+            'distribution' => 'Dist-Zilla-Plugin-Git-NextRelease',
+            'date' => '2014-08-31T20:48:26.000Z'
+          },
+          {
+            'date' => '2014-08-31T22:02:34.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ContributorsFile',
+            'module.name' => 'Dist::Zilla::Plugin::ContributorsFile'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-MetaProvides-Package',
+            'module.name' => 'Dist::Zilla::Plugin::MetaProvides::Package',
+            'date' => '2014-09-04T19:20:50.000Z'
+          },
+          {
+            'date' => '2014-09-04T19:10:30.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Author-KENTNL-RecommendFixes',
+            'module.name' => 'Dist::Zilla::Plugin::Author::KENTNL::RecommendFixes'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-ModuleInstall',
+            'module.name' => 'Dist::Zilla::Plugin::ModuleInstall',
+            'date' => '2014-09-04T20:17:13.000Z'
+          },
+          {
+            'date' => '2014-09-06T02:32:59.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::CheckLib',
+            'distribution' => 'Dist-Zilla-Plugin-CheckLib'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-if-ENV',
+            'module.name' => 'Dist::Zilla::Plugin::if::not::ENV',
+            'date' => '2014-09-06T02:40:48.000Z'
+          },
+          {
+            'date' => '2014-09-06T03:25:54.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-KENTNL',
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::KENTNL'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::CheckBin',
+            'distribution' => 'Dist-Zilla-Plugin-CheckBin',
+            'date' => '2014-09-06T02:30:11.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Run::Release',
+            'distribution' => 'Dist-Zilla-Plugin-Run',
+            'date' => '2014-09-06T06:55:46.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Run',
+            'module.name' => 'Dist::Zilla::Plugin::Run::Test',
+            'date' => '2014-09-06T06:55:46.000Z'
+          },
+          {
+            'date' => '2014-09-06T06:55:46.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Run::AfterMint',
+            'distribution' => 'Dist-Zilla-Plugin-Run'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-SVK',
+            'module.name' => 'Dist::Zilla::Plugin::SVK::Check',
+            'date' => '2010-07-02T00:30:15.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Stash-PodWeaver',
+            'module.name' => 'Dist::Zilla::Stash::PodWeaver',
+            'date' => '2012-12-09T02:12:27.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Signature',
+            'distribution' => 'Dist-Zilla-Plugin-Signature',
+            'date' => '2010-04-03T00:25:54.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-TAPPER',
+            'module.name' => 'Dist::Zilla::PluginBundle::TAPPER',
+            'date' => '2012-11-19T08:46:01.000Z'
+          },
+          {
+            'date' => '2010-08-19T08:25:34.000Z',
+            'distribution' => 'Dist-Zilla-BeLike-CSJEWELL',
+            'module.name' => 'Dist::Zilla::Plugin::CSJEWELL::SubversionDist'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-CheckChangeLog',
+            'module.name' => 'Dist::Zilla::Plugin::CheckChangeLog',
+            'date' => '2009-05-19T11:19:58.000Z'
+          },
+          {
+            'date' => '2010-06-08T15:38:44.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Subversion',
+            'module.name' => 'Dist::Zilla::Plugin::Subversion::ReleaseDist'
+          },
+          {
+            'date' => '2012-12-06T04:00:11.000Z',
+            'module.name' => 'Dist::Zilla::Role::Stash::Plugins',
+            'distribution' => 'Dist-Zilla-Role-Stash-Plugins'
+          },
+          {
+            'date' => '2011-02-17T12:47:36.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Catalyst',
+            'module.name' => 'Dist::Zilla::Catalyst::Helper'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::FLORA',
+            'distribution' => 'Dist-Zilla-PluginBundle-FLORA',
+            'date' => '2011-07-05T21:56:09.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-ApocalypseTests',
+            'module.name' => 'Dist::Zilla::Plugin::ApocalypseTests',
+            'date' => '2011-03-06T00:38:01.000Z'
+          },
+          {
+            'date' => '2011-10-09T19:28:29.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Meta::Dynamic::Config',
+            'distribution' => 'Dist-Zilla-Plugin-Meta-Dynamic-Config'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::DANIELP',
+            'distribution' => 'Dist-Zilla-PluginBundle-DANIELP',
+            'date' => '2010-11-09T22:49:52.000Z'
+          },
+          {
+            'date' => '2011-04-21T16:20:32.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MinimumPerl',
+            'module.name' => 'Dist::Zilla::Plugin::MinimumPerl'
+          },
+          {
+            'date' => '2010-12-18T05:09:06.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-StaticVersion',
+            'module.name' => 'Dist::Zilla::Plugin::StaticVersion'
+          },
+          {
+            'date' => '2011-07-15T15:09:18.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::JSAN::Bundle',
+            'distribution' => 'Dist-Zilla-Plugin-JSAN'
+          },
+          {
+            'date' => '2011-05-25T14:34:48.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-LatestPrereqs',
+            'module.name' => 'Dist::Zilla::Plugin::LatestPrereqs'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-RequiresExternal',
+            'module.name' => 'Dist::Zilla::Plugin::RequiresExternal',
+            'date' => '2011-08-29T04:40:16.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-ReportVersions',
+            'module.name' => 'Dist::Zilla::Plugin::ReportVersions',
+            'date' => '2011-03-14T09:32:19.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Covenant',
+            'distribution' => 'Dist-Zilla-Plugin-Covenant',
+            'date' => '2012-03-19T23:39:32.000Z'
+          },
+          {
+            'date' => '2012-04-04T18:58:40.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Web',
+            'distribution' => 'Dist-Zilla-Plugin-Web'
+          },
+          {
+            'date' => '2013-03-27T16:38:13.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Git-ExcludeUntracked',
+            'module.name' => 'Dist::Zilla::Plugin::Git::ExcludeUntracked'
+          },
+          {
+            'date' => '2013-03-25T02:02:40.000Z',
+            'module.name' => 'Dist::Zilla::Config::BundleInspector',
+            'distribution' => 'Dist-Zilla-Plugin-BundleInspector'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::AJGB',
+            'distribution' => 'Dist-Zilla-PluginBundle-AJGB',
+            'date' => '2013-04-07T22:46:28.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::RemovePhasedPrereqs',
+            'distribution' => 'Dist-Zilla-Plugin-RemovePhasedPrereqs',
+            'date' => '2013-03-08T01:40:16.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Clustericious::Mint',
+            'distribution' => 'Dist-Zilla-MintingProfile-Clustericious',
+            'date' => '2013-03-21T15:09:03.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-MintingProfile-Clustericious',
+            'module.name' => 'Dist::Zilla::MintingProfile::Clustericious',
+            'date' => '2013-03-21T15:09:03.000Z'
+          },
+          {
+            'date' => '2013-03-22T18:59:54.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-LOGIE',
+            'module.name' => 'Dist::Zilla::PluginBundle::LOGIE'
+          },
+          {
+            'date' => '2013-04-14T08:12:09.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Prereqs::FromCPANfile',
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-FromCPANfile'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::PluginBundle::PluginRemover',
+            'distribution' => 'Dist-Zilla-Role-PluginBundle-PluginRemover',
+            'date' => '2013-04-15T05:09:31.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-GENEHACK',
+            'module.name' => 'Dist::Zilla::PluginBundle::GENEHACK',
+            'date' => '2012-05-21T10:29:45.000Z'
+          },
+          {
+            'date' => '2012-05-30T12:46:24.000Z',
+            'distribution' => 'Dist-Zilla-App-Command-cover',
+            'module.name' => 'Dist::Zilla::App::Command::cover'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-MARCEL',
+            'module.name' => 'Dist::Zilla::PluginBundle::MARCEL',
+            'date' => '2012-05-11T22:07:46.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-AppendExternalData',
+            'module.name' => 'Dist::Zilla::Plugin::AppendExternalData',
+            'date' => '2012-02-08T03:52:12.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Stash::PAUSE::Encrypted',
+            'distribution' => 'Dist-Zilla-Stash-PAUSE-Encrypted',
+            'date' => '2012-07-13T18:44:09.000Z'
+          },
+          {
+            'date' => '2012-08-06T11:46:39.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-AMD',
+            'module.name' => 'Dist::Zilla::PluginBundle::AMD'
+          },
+          {
+            'date' => '2012-08-18T18:32:02.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Git::DescribeVersion',
+            'distribution' => 'Dist-Zilla-Plugin-Git-DescribeVersion'
+          },
+          {
+            'date' => '2013-12-03T14:19:29.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-AbstractFromPOD',
+            'module.name' => 'Dist::Zilla::Plugin::AbstractFromPOD'
+          },
+          {
+            'date' => '2013-12-10T00:31:04.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-UploadToDuckPAN',
+            'module.name' => 'Dist::Zilla::Plugin::UploadToDuckPAN'
+          },
+          {
+            'date' => '2013-11-21T03:08:11.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ShareDir-Tarball',
+            'module.name' => 'Dist::Zilla::Plugin::ShareDir::Tarball'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-ALEXBIO',
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::ALEXBIO',
+            'date' => '2013-11-24T19:20:37.000Z'
+          },
+          {
+            'date' => '2013-12-15T22:27:38.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::CoderwallEndorse',
+            'distribution' => 'Dist-Zilla-Plugin-CoderwallEndorse'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Util::Git::Refs',
+            'distribution' => 'Dist-Zilla-Util-Git-Refs',
+            'date' => '2013-12-20T15:04:03.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Alien',
+            'module.name' => 'Dist::Zilla::Plugin::Alien',
+            'date' => '2013-12-27T02:52:16.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::GenerateFile::ShareDir',
+            'distribution' => 'Dist-Zilla-Plugin-GenerateFile-ShareDir',
+            'date' => '2014-01-14T05:39:11.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::RunByBranch',
+            'distribution' => 'Dist-Zilla-Plugin-RunByBranch',
+            'date' => '2014-01-17T03:01:09.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-RunByBranch',
+            'module.name' => 'Dist::Zilla::Plugin::RunByBranch::BeforeBuild',
+            'date' => '2014-01-17T03:01:09.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-RunByBranch',
+            'module.name' => 'Dist::Zilla::Plugin::RunByBranch::Test',
+            'date' => '2014-01-17T03:01:09.000Z'
+          },
+          {
+            'date' => '2014-01-17T03:01:09.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-RunByBranch',
+            'module.name' => 'Dist::Zilla::Plugin::RunByBranch::AfterBuild'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ChangelogFromGit::Debian::Sequential',
+            'distribution' => 'Dist-Zilla-Plugin-ChangelogFromGit-Debian-Sequential',
+            'date' => '2014-01-16T16:04:32.000Z'
+          },
+          {
+            'date' => '2014-01-25T00:03:02.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-GPHAT',
+            'module.name' => 'Dist::Zilla::PluginBundle::GPHAT'
+          },
+          {
+            'date' => '2014-01-27T01:32:17.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::MungeFile::WithData',
+            'distribution' => 'Dist-Zilla-Plugin-MungeFile-WithDataSection'
+          },
+          {
+            'date' => '2014-01-28T13:36:23.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-TestRun',
+            'module.name' => 'Dist::Zilla::Plugin::TestRun'
+          },
+          {
+            'date' => '2014-03-30T04:16:56.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::Kwalitee::Extra',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Kwalitee-Extra'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::TrailingSpace',
+            'distribution' => 'Dist-Zilla-Plugin-Test-TrailingSpace',
+            'date' => '2014-02-02T18:11:12.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::Celogeek',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Celogeek',
+            'date' => '2014-02-03T20:01:25.000Z'
+          },
+          {
+            'date' => '2014-02-05T03:21:25.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::DiagINC',
+            'distribution' => 'Dist-Zilla-Plugin-Test-DiagINC'
+          },
+          {
+            'date' => '2014-02-06T03:19:24.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Doppelgaenger',
+            'module.name' => 'Dist::Zilla::Plugin::Doppelgaenger'
+          },
+          {
+            'date' => '2014-03-14T13:41:19.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-DOAP',
+            'module.name' => 'Dist::Zilla::Plugin::DOAP'
+          },
+          {
+            'date' => '2013-08-03T13:27:53.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::Portability',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Portability'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-ROKR',
+            'module.name' => 'Dist::Zilla::Plugin::SurgicalPkgVersion',
+            'date' => '2011-08-23T18:56:15.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::DualLife',
+            'distribution' => 'Dist-Zilla-Plugin-DualLife',
+            'date' => '2013-08-30T16:22:57.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::debc',
+            'distribution' => 'Dist-Zilla-Deb',
+            'date' => '2013-09-07T14:01:26.000Z'
+          },
+          {
+            'date' => '2013-09-15T17:21:07.000Z',
+            'distribution' => 'Dist-Zilla-MintingProfile-Author-ARODLAND',
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::ARODLAND'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Substitute',
+            'module.name' => 'Dist::Zilla::Plugin::Substitute',
+            'date' => '2013-10-27T01:05:29.000Z'
+          },
+          {
+            'date' => '2013-11-07T13:41:49.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::LEONT::XS',
+            'distribution' => 'Dist-Zilla-PluginBundle-LEONT'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Control-Debian',
+            'module.name' => 'Dist::Zilla::Plugin::Control::Debian',
+            'date' => '2013-10-05T03:51:23.000Z'
+          },
+          {
+            'date' => '2013-10-16T04:51:54.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-SHANTANU',
+            'module.name' => 'Dist::Zilla::PluginBundle::SHANTANU'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::ACPS::Legacy',
+            'distribution' => 'Dist-Zilla-PluginBundle-ACPS',
+            'date' => '2014-04-07T17:05:17.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ACPS::Mint',
+            'distribution' => 'Dist-Zilla-PluginBundle-ACPS',
+            'date' => '2014-04-07T17:05:17.000Z'
+          },
+          {
+            'date' => '2014-04-07T17:05:17.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-ACPS',
+            'module.name' => 'Dist::Zilla::Plugin::ACPS::Legacy'
+          },
+          {
+            'date' => '2014-04-07T17:05:17.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-ACPS',
+            'module.name' => 'Dist::Zilla::MintingProfile::ACPS'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::PAUSE::Permissions',
+            'distribution' => 'Dist-Zilla-Plugin-Test-PAUSE-Permissions',
+            'date' => '2014-04-08T03:33:59.000Z'
+          },
+          {
+            'date' => '2014-04-11T19:59:01.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Git-CheckFor',
+            'module.name' => 'Dist::Zilla::Plugin::Git::CheckFor::Fixups'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-ReadmeMarkdownFromPod',
+            'module.name' => 'Dist::Zilla::Plugin::ReadmeMarkdownFromPod',
+            'date' => '2014-04-24T03:14:38.000Z'
+          },
+          {
+            'date' => '2013-05-03T01:41:24.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ChangeStats-Git',
+            'module.name' => 'Dist::Zilla::Plugin::ChangeStats::Git'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ModuleBuildDatabase',
+            'distribution' => 'Dist-Zilla-Plugin-ModuleBuildDatabase',
+            'date' => '2013-07-06T17:11:59.000Z'
+          },
+          {
+            'date' => '2013-01-18T11:30:50.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-MELO',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::MELO'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-FileKeywords',
+            'module.name' => 'Dist::Zilla::Plugin::FileKeywords',
+            'date' => '2013-02-13T17:40:18.000Z'
+          },
+          {
+            'date' => '2013-02-13T17:55:56.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Git::Tag::ForRelease',
+            'distribution' => 'Dist-Zilla-Plugin-Git-Tag-ForRelease'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App::Command::mozi',
+            'distribution' => 'Dist-Zilla-Plugin-Moz',
+            'date' => '2012-02-15T03:10:05.000Z'
+          },
+          {
+            'date' => '2012-03-31T18:36:10.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::ConfigSlicer',
+            'distribution' => 'Dist-Zilla-Config-Slicer'
+          },
+          {
+            'date' => '2012-03-31T18:36:10.000Z',
+            'distribution' => 'Dist-Zilla-Config-Slicer',
+            'module.name' => 'Dist::Zilla::Role::PluginBundle::Config::Slicer'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Apocalyptic',
+            'distribution' => 'Dist-Zilla-PluginBundle-Apocalyptic',
+            'date' => '2012-01-03T05:45:11.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-App-Command-pot',
+            'module.name' => 'Dist::Zilla::App::Command::pot',
+            'date' => '2011-09-25T14:42:20.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Test-MinimumVersion',
+            'module.name' => 'Dist::Zilla::Plugin::MinimumVersionTests',
+            'date' => '2013-05-18T21:27:15.000Z'
+          },
+          {
+            'date' => '2013-05-18T21:27:15.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::MinimumVersion',
+            'distribution' => 'Dist-Zilla-Plugin-Test-MinimumVersion'
+          },
+          {
+            'date' => '2014-05-03T22:57:51.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::BlockRelease',
+            'distribution' => 'Dist-Zilla-Plugin-BlockRelease'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Test-UnusedVars',
+            'module.name' => 'Dist::Zilla::Plugin::UnusedVarsTests',
+            'date' => '2014-04-30T01:23:12.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::MinimumPrereqs',
+            'distribution' => 'Dist-Zilla-PluginBundle-Prereqs',
+            'date' => '2014-05-02T02:17:21.000Z'
+          },
+          {
+            'date' => '2014-05-08T15:35:31.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Milla::MetaGeneratedBy',
+            'distribution' => 'Dist-Milla'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Milla::FirstBuild',
+            'distribution' => 'Dist-Milla',
+            'date' => '2014-05-08T15:35:31.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-ContributorsFromPod',
+            'module.name' => 'Dist::Zilla::Plugin::ContributorsFromPod',
+            'date' => '2014-05-18T17:21:51.000Z'
+          },
+          {
+            'date' => '2014-05-30T00:15:53.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Dancer',
+            'module.name' => 'Dist::Zilla::PluginBundle::Dancer'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::GitStore::ConfigProvider',
+            'distribution' => 'Dist-Zilla-Stash-Store-Git',
+            'date' => '2014-05-15T03:28:49.000Z'
+          },
+          {
+            'date' => '2014-05-15T03:28:49.000Z',
+            'module.name' => 'Dist::Zilla::Role::GitStore::Consumer',
+            'distribution' => 'Dist-Zilla-Stash-Store-Git'
+          },
+          {
+            'date' => '2014-07-02T22:01:04.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::MITHALDU',
+            'distribution' => 'Dist-Zilla-PluginBundle-MITHALDU'
+          },
+          {
+            'date' => '2014-06-27T07:01:02.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Rinci::Validate',
+            'distribution' => 'Dist-Zilla-Plugin-Rinci-Validate'
+          },
+          {
+            'date' => '2014-06-28T10:39:06.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-GitHub',
+            'module.name' => 'Dist::Zilla::Plugin::GitHub::Meta'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Git',
+            'module.name' => 'Dist::Zilla::Plugin::Git::Check',
+            'date' => '2014-06-14T16:36:56.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Git',
+            'module.name' => 'Dist::Zilla::Plugin::Git',
+            'date' => '2014-06-14T16:36:56.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Git::CommitBuild',
+            'distribution' => 'Dist-Zilla-Plugin-Git',
+            'date' => '2014-06-14T16:36:56.000Z'
+          },
+          {
+            'date' => '2014-06-14T16:36:56.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Git',
+            'module.name' => 'Dist::Zilla::Plugin::Git::NextVersion'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Git',
+            'module.name' => 'Dist::Zilla::Plugin::Git::Init',
+            'date' => '2014-06-14T16:36:56.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Git',
+            'module.name' => 'Dist::Zilla::Role::Git::Repo',
+            'date' => '2014-06-14T16:36:56.000Z'
+          },
+          {
+            'date' => '2014-06-14T18:20:48.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-ChangelogFromGit-CPAN-Changes',
+            'module.name' => 'Dist::Zilla::Plugin::ChangelogFromGit::CPAN::Changes'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Test-PodSpelling',
+            'module.name' => 'Dist::Zilla::Plugin::Test::PodSpelling',
+            'date' => '2014-06-17T23:11:09.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::RSRCHBOY::Role::Git',
+            'distribution' => 'Dist-Zilla-PluginBundle-RSRCHBOY',
+            'date' => '2014-07-05T22:26:52.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ContributorsFromGit',
+            'distribution' => 'Dist-Zilla-Plugin-ContributorsFromGit',
+            'date' => '2014-07-05T22:29:46.000Z'
+          },
+          {
+            'date' => '2014-07-20T20:23:41.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::CHIM',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-CHIM'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Types',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::App',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => [
+                               'Dist::Zilla::App::Tester',
+                               'Dist::Zilla::App::Tester::Result'
+                             ],
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::App::Command::listdeps',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::App::Command::release'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::App::Command::nop'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::RemovePrereqs'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::TestRelease',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::GatherDir',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::CPANFile',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Prereqs',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::InlineFiles',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::Prereq',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::MakeMaker',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::ModuleShareDirs',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::GenerateFile',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Plugin::BumpVersion'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::TemplateModule',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::FakeRelease',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::GatherDir::Template',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'module.name' => 'Dist::Zilla::Role::NameProvider',
+            'distribution' => 'Dist-Zilla'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::Stash'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::AfterRelease',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::InstallTool',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::Releaser',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::PPI',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::TestRunner',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::PluginBundle',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::File'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::ExecFiles',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'date' => '2014-07-29T00:59:26.000Z',
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Role::LicenseProvider'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Role::FileFinderUser',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla',
+            'module.name' => 'Dist::Zilla::Dist::Builder',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Dist::Minter',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Stash::Rights',
+            'distribution' => 'Dist-Zilla',
+            'date' => '2014-07-29T00:59:26.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-Plicease',
+            'module.name' => 'Dist::Zilla::Plugin::Author::Plicease::SpecialPrereqs',
+            'date' => '2014-07-31T13:31:09.000Z'
+          },
+          {
+            'date' => '2014-08-16T15:05:14.000Z',
+            'distribution' => 'Dist-Zilla-Plugins-CJM',
+            'module.name' => 'Dist::Zilla::Plugin::Metadata'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Test::PrereqsFromMeta',
+            'distribution' => 'Dist-Zilla-Plugins-CJM',
+            'date' => '2014-08-16T15:05:14.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Util-BundleInfo',
+            'module.name' => 'Dist::Zilla::Util::BundleInfo',
+            'date' => '2014-08-16T00:06:08.000Z'
+          },
+          {
+            'date' => '2014-08-16T00:05:45.000Z',
+            'module.name' => 'Dist::Zilla::dumpphases::Theme::basic::blue',
+            'distribution' => 'Dist-Zilla-App-Command-dumpphases'
+          },
+          {
+            'module.name' => 'Dist::Zilla::dumpphases::Role::Theme',
+            'distribution' => 'Dist-Zilla-App-Command-dumpphases',
+            'date' => '2014-08-16T00:05:45.000Z'
+          },
+          {
+            'date' => '2014-08-16T00:18:42.000Z',
+            'distribution' => 'Dist-Zilla-App-Command-dumpwith',
+            'module.name' => 'Dist::Zilla::App::Command::dumpwith'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::SHARYANTO',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-SHARYANTO',
+            'date' => '2014-08-16T02:19:40.000Z'
+          },
+          {
+            'date' => '2014-08-16T02:19:40.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-SHARYANTO',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::SHARYANTO::NonCPAN'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::SetScriptShebang',
+            'distribution' => 'Dist-Zilla-Plugin-SetScriptShebang',
+            'date' => '2014-08-16T02:19:28.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Keywords',
+            'module.name' => 'Dist::Zilla::Plugin::Keywords',
+            'date' => '2014-08-16T02:50:58.000Z'
+          },
+          {
+            'date' => '2014-08-16T00:39:28.000Z',
+            'distribution' => 'Dist-Zilla-Util-RoleDB',
+            'module.name' => 'Dist::Zilla::Util::RoleDB'
+          },
+          {
+            'date' => '2014-08-16T00:39:28.000Z',
+            'module.name' => 'Dist::Zilla::Util::RoleDB::Items',
+            'distribution' => 'Dist-Zilla-Util-RoleDB'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Util-RoleDB',
+            'module.name' => 'Dist::Zilla::Util::RoleDB::Entry::Phase',
+            'date' => '2014-08-16T00:39:28.000Z'
+          },
+          {
+            'date' => '2014-08-16T00:39:28.000Z',
+            'module.name' => 'Dist::Zilla::Util::RoleDB::Entry',
+            'distribution' => 'Dist-Zilla-Util-RoleDB'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::CopyFilesFromRelease',
+            'distribution' => 'Dist-Zilla-Plugin-CopyFilesFromRelease',
+            'date' => '2014-08-16T00:41:02.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Util-ExpandINI',
+            'module.name' => 'Dist::Zilla::Util::ExpandINI::Writer',
+            'date' => '2014-08-16T00:38:04.000Z'
+          },
+          {
+            'date' => '2014-08-16T23:17:45.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::NoTabsTests',
+            'distribution' => 'Dist-Zilla-Plugin-Test-NoTabs'
+          },
+          {
+            'date' => '2014-08-04T12:27:30.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-MAXHQ',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::MAXHQ'
+          },
+          {
+            'distribution' => 'Dist-Zilla-TravisCI',
+            'module.name' => 'Dist::Zilla::App::Command::chainsmoke',
+            'date' => '2014-08-03T00:05:08.000Z'
+          },
+          {
+            'date' => '2014-08-06T08:42:29.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::CHGOVUK',
+            'distribution' => 'Dist-Zilla-PluginBundle-CHGOVUK'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-KENTNL-Lite',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::KENTNL::Lite',
+            'date' => '2014-08-18T06:39:59.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::GABRIEL',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-GABRIEL',
+            'date' => '2014-08-13T02:19:47.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Util-EmulatePhase',
+            'module.name' => 'Dist::Zilla::Util::EmulatePhase::PrereqCollector',
+            'date' => '2014-08-29T09:52:48.000Z'
+          },
+          {
+            'date' => '2014-08-29T11:57:54.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-MetaProvides',
+            'module.name' => 'Dist::Zilla::Role::MetaProvider::Provider'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Role-File-ChangeNotification',
+            'module.name' => 'Dist::Zilla::Role::File::ChangeNotification',
+            'date' => '2014-08-26T06:41:29.000Z'
+          },
+          {
+            'date' => '2014-08-27T01:43:01.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Test::Kwalitee',
+            'distribution' => 'Dist-Zilla-Plugin-Test-Kwalitee'
+          },
+          {
+            'date' => '2014-08-28T04:27:53.000Z',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::DOHERTY',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-DOHERTY'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Author-KENTNL-Prereqs-Latest-Selective',
+            'module.name' => 'Dist::Zilla::Plugin::Author::KENTNL::Prereqs::Latest::Selective',
+            'date' => '2014-08-30T12:53:49.000Z'
+          },
+          {
+            'date' => '2014-08-30T03:09:51.000Z',
+            'distribution' => 'Dist-Zilla-PluginBundle-TestingMania',
+            'module.name' => 'Dist::Zilla::PluginBundle::TestingMania'
+          },
+          {
+            'date' => '2014-08-30T03:08:24.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-Test-CheckBreaks',
+            'module.name' => 'Dist::Zilla::Plugin::Test::CheckBreaks'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Util::ConfigDumper',
+            'distribution' => 'Dist-Zilla-Util-ConfigDumper',
+            'date' => '2014-08-31T21:19:11.000Z'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-YANICK',
+            'module.name' => 'Dist::Zilla::MintingProfile::Author::YANICK',
+            'date' => '2014-08-31T22:11:56.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::ModuleBuildTiny',
+            'distribution' => 'Dist-Zilla-Plugin-ModuleBuildTiny',
+            'date' => '2014-09-01T09:26:39.000Z'
+          },
+          {
+            'date' => '2014-09-03T22:14:58.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::MetaData::BuiltWith',
+            'distribution' => 'Dist-Zilla-Plugin-MetaData-BuiltWith'
+          },
+          {
+            'date' => '2014-09-05T03:27:40.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Prereqs::MatchInstalled',
+            'distribution' => 'Dist-Zilla-Plugin-Prereqs-MatchInstalled'
+          },
+          {
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-ETHER',
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::ETHER',
+            'date' => '2014-09-06T02:17:03.000Z'
+          },
+          {
+            'date' => '2014-09-06T01:31:10.000Z',
+            'distribution' => 'Dist-Zilla-Plugin-AuthorityFromModule',
+            'module.name' => 'Dist::Zilla::Plugin::AuthorityFromModule'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-if-ENV',
+            'module.name' => 'Dist::Zilla::Plugin::if::ENV',
+            'date' => '2014-09-06T02:40:48.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::PluginBundle::Author::KENTNL',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-KENTNL',
+            'date' => '2014-09-06T03:25:54.000Z'
+          },
+          {
+            'module.name' => 'Dist::Zilla::Plugin::Author::KENTNL::MinimumPerl',
+            'distribution' => 'Dist-Zilla-PluginBundle-Author-KENTNL',
+            'date' => '2014-09-06T03:25:54.000Z'
+          },
+          {
+            'date' => '2014-09-06T06:55:46.000Z',
+            'module.name' => 'Dist::Zilla::Plugin::Run::AfterBuild',
+            'distribution' => 'Dist-Zilla-Plugin-Run'
+          },
+          {
+            'distribution' => 'Dist-Zilla-Plugin-Run',
+            'module.name' => 'Dist::Zilla::Plugin::Run::BeforeBuild',
+            'date' => '2014-09-06T06:55:46.000Z'
+          }
+        ];
