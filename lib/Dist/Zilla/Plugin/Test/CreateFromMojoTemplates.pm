@@ -2,7 +2,7 @@ package Dist::Zilla::Plugin::Test::CreateFromMojoTemplates;
 
 use strict;
 use 5.10.1;
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use Moose;
 use File::Find::Rule;
@@ -59,6 +59,8 @@ __END__
 =head1 NAME
 
 Dist::Zilla::Plugin::Test::CreateFromMojoTemplates - Create tests from custom L<Mojolicious> templates
+
+=for html <p><a style="float: left;" href="https://travis-ci.org/Csson/p5-dist-zilla-plugin-test-createfrommojotemplate"><img src="https://travis-ci.org/Csson/p5-dist-zilla-plugin-test-createfrommojotemplate.svg?branch=master">&nbsp;</a>
 
 =head1 SYNOPSIS
 

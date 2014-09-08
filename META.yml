@@ -1,7 +1,7 @@
 ---
 abstract: 'Create tests from custom L<Mojolicious> templates'
 author:
-  - 'Erik Carlsson <info@code301.com>'
+  - 'Erik Carlsson <csson@cpan.org>'
 build_requires:
   Test::More: '0.96'
 configure_requires:
@@ -25,7 +25,7 @@ requires:
   Dist::Zilla::File::InMemory: '5.000'
   Dist::Zilla::Role::FileGatherer: '5.000'
   File::Find::Rule: '0.33'
-  MojoX::CustomTemplateFileParser: '0.04'
+  MojoX::CustomTemplateFileParser: '0.05'
   Moose: '2.00'
   Path::Tiny: '0.050'
   namespace::sweep: '0.006'
@@ -34,4 +34,6 @@ resources:
   bugtracker: https://github.com/Csson/p5-dist-zilla-plugin-test-createfrommojotemplate/issues
   homepage: https://github.com/Csson/p5-dist-zilla-plugin-test-createfrommojotemplate
   repository: https://github.com/Csson/p5-dist-zilla-plugin-test-createfrommojotemplate.git
-version: '0.03'
+version: '0.04'
+x_contributors:
+  - 'Erik Carlsson <info@code301.com>'

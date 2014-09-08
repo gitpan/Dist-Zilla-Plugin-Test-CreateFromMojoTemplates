@@ -1,5 +1,9 @@
 Revision history for Dist-Zilla-Plugin-Test-CreateFromMojoTemplates
 
+0.04  2014-09-08 13:52:39 CEST
+    - Bumped requirement for MojoX::CustomTemplateFileParser (0.05)
+    - Added Travis build status.
+
 0.03  2014-09-07 21:22:39 CEST
     - Cleanup
     - Bumped requirement for MojoX::CustomTemplateFileParser (0.04)

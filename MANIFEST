@@ -8,7 +8,6 @@ META.yml
 README
 cpanfile
 dist.ini
-distzilla_namespace_20140906.txt
 lib/Dist/Zilla/Plugin/Test/CreateFromMojoTemplates.pm
 t/author-test-eol.t
 t/basic.t
