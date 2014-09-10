@@ -2,7 +2,7 @@ package Dist::Zilla::Plugin::Test::CreateFromMojoTemplates;
 
 use strict;
 use 5.10.1;
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 use Moose;
 use File::Find::Rule;
@@ -34,7 +34,7 @@ sub gather_files {
     my @paths = File::Find::Rule->file->name(qr/@{[ $self->filepattern ]}/)->in($self->directory);
     foreach my $path (@paths) {
 
-        my $contents = MojoX::CustomTemplateFileParser->new(path => path($path)->absolute)->parse->flatten;
+        my $contents = MojoX::CustomTemplateFileParser->new(path => path($path)->absolute->canonpath, output => ['Test'])->to_test;
         my $filename = path($path)->basename(qr{\.[^.]+});
 
         my $file = Dist::Zilla::File::InMemory->new(
