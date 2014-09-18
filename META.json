@@ -24,6 +24,12 @@
       ]
    },
    "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Test::EOL" : "0",
+            "Test::Pod" : "0"
+         }
+      },
       "configure" : {
          "requires" : {
             "Module::Build::Tiny" : "0.037"
@@ -64,7 +70,7 @@
          "web" : "https://github.com/Csson/p5-dist-zilla-plugin-test-createfrommojotemplate"
       }
    },
-   "version" : "0.05",
+   "version" : "0.06",
    "x_contributors" : [
       "Erik Carlsson <info@code301.com>"
    ]

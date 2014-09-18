@@ -13,3 +13,7 @@ requires 'Dist::Zilla::Role::FileGatherer', '5.000';
 on test => sub {
     requires 'Test::More', '0.96';
 };
+on build => sub {
+	requires 'Test::EOL';
+	requires 'Test::Pod';
+};

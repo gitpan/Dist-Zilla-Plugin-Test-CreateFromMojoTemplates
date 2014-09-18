@@ -2,7 +2,7 @@ package Dist::Zilla::Plugin::Test::CreateFromMojoTemplates;
 
 use strict;
 use 5.10.1;
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 use Moose;
 use File::Find::Rule;
